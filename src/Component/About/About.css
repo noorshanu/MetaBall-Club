@@ -1,0 +1,35 @@
+.about-main{
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+
+
+.about-content{
+    text-align: right;
+}
+
+.about-content h1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 70px;
+    line-height: 107%;
+    text-align: right;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-bottom: 3%;
+}
+.about-content p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 145%;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.about-btn-box{
+    padding-top: 6%;
+    padding-bottom: 2%;
+}
