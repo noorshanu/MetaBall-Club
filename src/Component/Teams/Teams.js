@@ -7,7 +7,7 @@ import Team3 from '../../assets/team/t3.png'
 import Team4 from '../../assets/team/t4.png'
 function Teams() {
   return (
-    <section className='features'>
+    <section className='team'>
     <div class="container text-center">
      <h1>Teams</h1>
 
@@ -32,9 +32,8 @@ function Teams() {
                     <img src={Team2} alt=""/>
                     <h2>snori</h2>
                     <span>CEO</span>
-                    <p>He is an entrepreneur with almost 13 years of
-                         experience. For the last 8 years he has been focusing on gaming. 
-                         He is also a involved in different Blockcahins.
+                    <p>A hacker and serious tech entrepreneur and have collaborated with different projects. His main motive is to make scalable systems and security systems. 
+
                     </p>
                     
                 </div>
@@ -42,11 +41,10 @@ function Teams() {
             <div class="col-md-3">
             <div className='team-box text-center'>
                     <img src={Team3} alt=""/>
-                    <h2>John Mohr</h2>
-                    <span>CEO</span>
-                    <p>He is an entrepreneur with almost 13 years of
-                         experience. For the last 8 years he has been focusing on gaming. 
-                         He is also a involved in different Blockcahins.
+                    <h2>Susan</h2>
+                    <span>advisor</span>
+                    <p>Developer and serial entrepreneur in the field of information technology, specialising in 
+                        Self-Sovereign Identity, Blockchain. 
                     </p>
                     
                 </div>
@@ -54,18 +52,17 @@ function Teams() {
             <div class="col-md-3">
             <div className='team-box text-center'>
                     <img src={Team4} alt=""/>
-                    <h2>John Mohr</h2>
-                    <span>CEO</span>
-                    <p>He is an entrepreneur with almost 13 years of
-                         experience. For the last 8 years he has been focusing on gaming. 
-                         He is also a involved in different Blockcahins.
+                    <h2>jane</h2>
+                    <span>advisor</span>
+                    <p>Full-stack developer with experience in economics and institutional fintech. Full stack 
+                        developer. Advisor for a number of different blockchain initiatives,
                     </p>
                     
                 </div>
             </div>
         </div>
     </div>
-    <div className='container'>
+    <div className='container team-low'>
       <img src={Lines} alt="" className='line-2'/>
       </div>
   </section>
