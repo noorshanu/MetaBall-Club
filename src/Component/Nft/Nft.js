@@ -3,6 +3,7 @@ import './nft.css'
 import Tshirt from '../../assets/tshirt.png'
 import Line from '../../assets/line.png'
 import Nfts from '../../assets/nft.png'
+import Lines from '../../assets/Biggreyline.png'
 function Nft() {
   return (
     <section className='nft'>
@@ -60,7 +61,9 @@ function Nft() {
 </div>
 
  
-
+<div className='container'>
+        <img src={Lines} alt="" className='line-2'/>
+        </div>
 
     </section>
   )

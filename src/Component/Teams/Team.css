@@ -1,0 +1,29 @@
+.team-box img{
+    width: 90%;
+    height: 100%;
+    padding-bottom: 1%;
+}
+
+.team-box h2{
+    font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 107%;
+}
+
+.team-box span{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 107%;
+}
+
+.team-box p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 134.5%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 3%;
+}
