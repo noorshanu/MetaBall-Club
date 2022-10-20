@@ -1,0 +1,18 @@
+.nft-head h1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 70px;
+    line-height: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-bottom: 1%;
+    
+}
+.nft-head p{
+    font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 188.5%;
+}

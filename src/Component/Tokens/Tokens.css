@@ -1,0 +1,23 @@
+.line-2{
+    height: 3px;
+}
+.token{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.token-sec h1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 70px;
+    line-height: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-bottom: 1%;
+    padding-top: 3%;
+}
+
+.token-sec img{
+    width: 50%;
+}

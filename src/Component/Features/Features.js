@@ -2,7 +2,14 @@ import React from 'react'
 
 function Features() {
   return (
-    <div>Features</div>
+    <section className='features'>
+      <div class="container text-center">
+       <h1>Features</h1>
+
+       <h1>soon....</h1>
+      </div>
+
+    </section>
   )
 }
 

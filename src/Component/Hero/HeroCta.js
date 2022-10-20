@@ -9,7 +9,7 @@ function HeroCta() {
     <section className='cta'>
         <div className='container'>
             <div className='cta-head'>
-                <img src={SmallLine} alt=""/>
+                <img src={SmallLine} alt="" style={{height:'3px'}}/>
 
             </div>
             <div className='cta-content '>
