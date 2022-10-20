@@ -1,7 +1,7 @@
 
 a {
   text-decoration: none;
-  color: #06898e;
+  color: #ffffff;
 }
 
 li {
@@ -12,7 +12,7 @@ li {
     height: 55px;
 }
 a:hover {
-  color: #000000;
+  color: #25ac10;
 }
 
 /* 

@@ -1,0 +1,44 @@
+footer{
+    padding-top: 5%;
+    padding-bottom: 3%;
+    color: #fff;
+}
+
+.foot-logo{
+    text-align: center;
+    align-items: center;
+    padding-bottom: 18%;
+    gap: 1rem;
+}
+.foot-logo img{
+    width: 24%;
+}
+.foot-logo h2{
+    font-style: normal;
+font-weight: 800;
+font-size: 28px;
+line-height: 109%;
+/* or 54px */
+
+text-transform: uppercase;
+}
+
+.copyright{
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 136.5%;
+
+/* or 25px */
+
+
+color: #676767;
+}
+.foot-soc{
+    padding-top: 4%;
+    text-align: center;
+}
+
+.foot-low{
+    padding-top: 5%;
+}
