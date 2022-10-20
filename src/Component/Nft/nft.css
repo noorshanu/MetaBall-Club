@@ -16,3 +16,17 @@ font-weight: 600;
 font-size: 30px;
 line-height: 188.5%;
 }
+.nft-box{
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+.nft-para p{
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 188.5%;
+
+}
+.nft-slider img{
+    width: 60%;
+}
