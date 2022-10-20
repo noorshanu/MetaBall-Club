@@ -38,15 +38,17 @@ function Nft() {
     </div>
 <div class="container nft-box">
         <div class="row justify-content-center align-items-center g-2">
+      
         <div class="col-md-6 nft-para">
-                <p> The NFT Marketplace has unique characters, footballs, kits, bands and other 
-                    football accessories. Every NFT is one of a kind and has its own distinct appearance,
-                    personality, and energy. </p>
-                <p>One NFT cannot be reproduced or shared on chain with another NFT under any circumstances.
-                     One NFT is equal to one vote.</p>
-                <p>After the collection has been released to the public, our very own marketplace for NFTs will go
-                     online. Here, players will be able to buy, sell, and trade NFTs in order to acquire the greatest possible 
-                     copy of the game.</p>
+                <ul className='nft-list'>
+                    <li>Buying back the utility token.</li>
+                    <li>Staking of NFT’s generate revenue.</li>
+                    <li>Gameplay itself help you earn different rewards.</li>
+                    <li>Holdings NFT’s is also a good way to earn.</li>
+                    <li>You can also bet in the games and earn.</li>
+                    <li>Renting your home stadium also help you generate cash.</li>
+
+                </ul>
                 </div>
             <div class="col-md-6 text-center nft-slider">
                 <img src={Nfts} alt=""/>

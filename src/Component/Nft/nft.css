@@ -46,3 +46,12 @@ line-height: 107%;
     width: 61%;
     height: 3px;
 }
+.nft-list li{
+    list-style: circle;
+    color: #FFFFFF;
+    line-height: 40px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+
+}
