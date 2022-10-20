@@ -11,10 +11,10 @@ function Footer() {
       <div class="container">
         <div class="row justify-content-center align-items-center g-2">
           <div class="col-md-3 col-6">
-            <img src={Logo} alt=""/>
-            <h2>METABALL</h2>
+            <img src={Logo} alt="" className='foot-logo'/>
+            <h2 className='foot-h1'>METABALL</h2>
 
-            <span>© 2022 MetaBall Inc. All rights reserved</span>
+            <span className='copyright'>© 2022 MetaBall Inc. All rights reserved</span>
             <div className='hero-social'>
                         <a href="/"><FaTwitter/></a>
                         <a href="/"><FaTelegram/></a>
@@ -23,7 +23,7 @@ function Footer() {
 
                     </div>
           </div>
-          <div class="col-md-3 col-6">
+          <div className="col-md-3 col-6" >
             <p><a href="/"> ABOUT</a></p>
             <p><a href="/"> WHITEPAPER</a></p>
             <p><a href="/"> MARKET</a></p>
@@ -32,7 +32,7 @@ function Footer() {
             <p><a href="/"> SNAPSHOT DAO</a></p>
 
           </div>
-          <div class="col-md-3 col-6">
+          <div className="col-md-3 col-6">
           <p><a href="/">  TOKEN INFO</a></p>
             <p><a href="/"> HOW TO MAKE MONEY AT METASOCCER</a></p>
             <p><a href="/"> CONTRACT AUDITS</a></p>
@@ -40,7 +40,7 @@ function Footer() {
             <p><a href="/"> DISCLAIMER</a></p>
          
           </div>
-          <div class="col-md-3 col-6">
+          <div className="col-md-3 col-6">
             <div>
             <span className='hero-btn'> <a href="/" className='hero-btn-1'>play</a></span>
             </div>

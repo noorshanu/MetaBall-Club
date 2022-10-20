@@ -15,7 +15,7 @@ function Teams() {
     </div>
     <div class="container">
         <div class="row justify-content-center align-items-center g-2">
-            <div class="col-md-3">
+            <div className="col-md-3">
                 <div className='team-box text-center'>
                     <img src={Team1} alt=""/>
                     <h2>John Mohr</h2>
@@ -27,7 +27,7 @@ function Teams() {
                     
                 </div>
             </div>
-            <div class="col-md-3">
+            <div className="col-md-3">
             <div className='team-box text-center'>
                     <img src={Team2} alt=""/>
                     <h2>snori</h2>
@@ -38,7 +38,7 @@ function Teams() {
                     
                 </div>
                 </div>
-            <div class="col-md-3">
+            <div className="col-md-3">
             <div className='team-box text-center'>
                     <img src={Team3} alt=""/>
                     <h2>Susan</h2>
@@ -49,7 +49,7 @@ function Teams() {
                     
                 </div>
             </div>
-            <div class="col-md-3">
+            <div className="col-md-3">
             <div className='team-box text-center'>
                     <img src={Team4} alt=""/>
                     <h2>jane</h2>
