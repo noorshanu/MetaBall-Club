@@ -7,7 +7,7 @@ function Hero() {
     <section className='Hero-main'>
         <div className='container'>
             <div className='row'>
-                <div className='col-md-6 col-6 align-items-center'>
+                <div className='col-md-6  align-items-center'>
                     <h1 className='pt-2 hero-h1'>
                     Where the Players Want to
                     </h1>
@@ -25,6 +25,9 @@ function Hero() {
                     </div>
                     </div>
 
+                </div>
+                <div className='col-md-6'>
+                    
                 </div>
 
             </div>

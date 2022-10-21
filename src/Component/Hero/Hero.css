@@ -87,3 +87,33 @@
     color: #FFFFFF;
     padding-bottom: 8%;
 }
+
+/*mob responsive*/
+
+@media (max-width:768px) {
+    .hero-h1 {
+        font-size: 38px;
+        font-weight: 600;
+        line-height: 138%;
+        padding-bottom: 10%;
+    }
+
+    .hero-btn {
+        padding: 27px 3px 13px 3px;
+    }
+
+    .hero-btn-1{
+        padding: 5px 28px 5px 28px;
+        font-size: 34px;
+        font-weight: 700;
+    }
+
+    .cta-content h2 {
+        font-size: 24px;
+    }
+
+    .cta-content h3 {
+        font-size: 19px;
+    }
+    
+}
