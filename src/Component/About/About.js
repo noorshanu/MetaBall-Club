@@ -3,7 +3,7 @@ import './About.css'
 import AboutImg from '../../assets/blnkpic.png'
 function About() {
   return (
-    <section className='about-main'>
+    <section className='about-main' id='about'>
     <div className='container'>
         <div className='row'>
             <div className='col-md-6'>

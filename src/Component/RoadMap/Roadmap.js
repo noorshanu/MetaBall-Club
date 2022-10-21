@@ -3,7 +3,7 @@ import Lines from '../../assets/Biggreyline.png'
 
 function Roadmap() {
   return (
-    <section className='features'>
+    <section className='features' id='road'>
       <div class="container text-center">
        <h1>RoadMap</h1>
 

@@ -7,7 +7,7 @@ import Team3 from '../../assets/team/t3.png'
 import Team4 from '../../assets/team/t4.png'
 function Teams() {
   return (
-    <section className='team'>
+    <section className='team' id='team'>
     <div class="container text-center">
      <h1>Teams</h1>
 

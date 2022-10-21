@@ -6,7 +6,7 @@ import Nfts from '../../assets/nft.png'
 import Lines from '../../assets/Biggreyline.png'
 function Nft() {
   return (
-    <section className='nft'>
+    <section className='nft' id='nft'>
     <div className='container text-center nft-head'>
         <h1>NFTs</h1>
         <p>At MetaBall, NFTs are at the centre of everything.</p>
