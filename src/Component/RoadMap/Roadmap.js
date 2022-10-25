@@ -12,6 +12,7 @@ function Roadmap() {
     <section className='features' id='road'>
       <div class="container text-center">
        <h1>RoadMap</h1>
+       <p>The following will be the Tokenomics of MetaBall Token.</p>
 
        <div>
        <Swiper navigation={true} autoplay={{
