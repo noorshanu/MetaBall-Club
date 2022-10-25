@@ -9,6 +9,7 @@ import Nft from '../Component/Nft/Nft'
 import Roadmap from '../Component/RoadMap/Roadmap'
 import Teams from '../Component/Teams/Teams'
 import Tokens from '../Component/Tokens/Tokens'
+import "swiper/css/bundle";
 
 function Home() {
   return (
