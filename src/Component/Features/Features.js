@@ -13,13 +13,16 @@ function Features() {
         <Tabs>
           <TabList>
             <Tab>
-              <p>Title 1</p>
+              <h2>utility 
+token</h2>
             </Tab>
             <Tab>
-              <p>Title 2</p>
+            <h2>meta
+verse</h2>
             </Tab>
             <Tab>
-              <p>Title 3</p>
+              <h2>realtime
+ads</h2>
             </Tab>
           </TabList>
 
