@@ -7,22 +7,20 @@ function Features() {
     <section className="features" id="feature">
       <div class="container text-center">
         <h1>Teams</h1>
+        <p>The MetaBall Club is packed with top class features that make it more attractive.</p>
       </div>
 
       <div className="container">
         <Tabs>
           <TabList>
             <Tab>
-              <h2>utility 
-token</h2>
+              <h2>utility token</h2>
             </Tab>
             <Tab>
-            <h2>meta
-verse</h2>
+              <h2>meta verse</h2>
             </Tab>
             <Tab>
-              <h2>realtime
-ads</h2>
+              <h2>realtime ads</h2>
             </Tab>
           </TabList>
 
@@ -44,7 +42,7 @@ ads</h2>
           </TabPanel>
           <TabPanel>
             <div className="panel-content">
-            <div className="d-flex">
+              <div className="d-flex">
                 <div className="tab-content">
                   <p>
                     The MetaBall Utility token stores your values and grants you
@@ -60,7 +58,7 @@ ads</h2>
           </TabPanel>
           <TabPanel>
             <div className="panel-content">
-            <div className="d-flex">
+              <div className="d-flex">
                 <div className="tab-content">
                   <p>
                     The MetaBall Utility token stores your values and grants you
