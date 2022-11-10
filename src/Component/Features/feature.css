@@ -34,7 +34,7 @@
     border-color: #1c1d1f;
     border-left: 4px solid #6eb800;
     color: white;
-    box-shadow: 165px 0px 5px -4px rgba(103,103,103,1);
+    box-shadow: 165px 0px 0px -4px rgba(103,103,103,1);
   }
   .react-tabs__tab--selected::after{
     background: #676767;
