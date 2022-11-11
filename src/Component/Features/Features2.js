@@ -1,6 +1,6 @@
 import React from 'react'
 import "./feature.css";
-import Blank from "../../assets/blnkpic.png";
+
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 
 function Features2() {
@@ -15,7 +15,7 @@ function Features2() {
               <div className="d-flex">
              
                 <div className="tab-image">
-                  <img src={Blank} alt="" />
+                  <img src='https://ik.imagekit.io/cforcrypto/metaball/Features/market_place.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668173539794' alt="" />
                 </div>
                 <div className="tab-content">
                   <p>
@@ -32,7 +32,7 @@ function Features2() {
             <div className="d-flex">
              
              <div className="tab-image">
-               <img src={Blank} alt="" />
+               <img src='https://ik.imagekit.io/cforcrypto/metaball/Features/rewards.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668173356135' alt="" />
              </div>
              <div className="tab-content">
                <p>
@@ -49,7 +49,7 @@ function Features2() {
             <div className="d-flex">
              
              <div className="tab-image">
-               <img src={Blank} alt="" />
+               <img src='https://ik.imagekit.io/cforcrypto/metaball/Features/Staking.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668173620116' alt="" />
              </div>
              <div className="tab-content">
                <p>
@@ -65,13 +65,14 @@ function Features2() {
 
           <TabList>
             <Tab>
-              <h2>utility token</h2>
+              <h2>Market
+Place</h2>
             </Tab>
             <Tab>
-              <h2>meta verse</h2>
+              <h2>Rewards</h2>
             </Tab>
             <Tab>
-              <h2>realtime ads</h2>
+              <h2>Staking</h2>
             </Tab>
           </TabList>
         </Tabs>

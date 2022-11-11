@@ -1,13 +1,16 @@
 import React from "react";
 import "./feature.css";
-import Blank from "../../assets/blnkpic.png";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
+
 function Features() {
   return (
     <section className="features" id="feature">
       <div class="container text-center">
         <h1>Teams</h1>
-        <p>The MetaBall Club is packed with top class features that make it more attractive.</p>
+        <p>
+          The MetaBall Club is packed with top class features that make it more
+          attractive.
+        </p>
       </div>
 
       <div className="container">
@@ -35,7 +38,10 @@ function Features() {
                   </p>
                 </div>
                 <div className="tab-image">
-                  <img src={Blank} alt="" />
+                  <img
+                    src="https://ik.imagekit.io/cforcrypto/metaball/Features/utility_token.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668171177766"
+                    alt=""
+                  />
                 </div>
               </div>
             </div>
@@ -51,7 +57,10 @@ function Features() {
                   </p>
                 </div>
                 <div className="tab-image">
-                  <img src={Blank} alt="" />
+                  <img
+                    src="https://ik.imagekit.io/cforcrypto/metaball/Features/metaverse.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668173325394"
+                    alt=""
+                  />
                 </div>
               </div>
             </div>
@@ -67,7 +76,10 @@ function Features() {
                   </p>
                 </div>
                 <div className="tab-image">
-                  <img src={Blank} alt="" />
+                  <img
+                    src="https://ik.imagekit.io/cforcrypto/metaball/Features/realtime_ads.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668173577727"
+                    alt=""
+                  />
                 </div>
               </div>
             </div>

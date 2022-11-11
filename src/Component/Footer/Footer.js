@@ -26,6 +26,11 @@ function Footer() {
 
                     </div>
           </div>
+          <div className="col-md-4 col-6">
+            <div className='text-center'>
+            <span className='hero-btn'> <a href="/" className='hero-btn-1'>play</a></span>
+            </div>
+          </div>
           <div className="col-md-2 col-6" >
             <p><a href="/"> ABOUT</a></p>
             <p><a href="/"> WHITEPAPER</a></p>
@@ -43,11 +48,7 @@ function Footer() {
             <p><a href="/"> DISCLAIMER</a></p>
          
           </div>
-          <div className="col-md-4 col-6">
-            <div className='text-center'>
-            <span className='hero-btn'> <a href="/" className='hero-btn-1'>play</a></span>
-            </div>
-          </div>
+        
         </div>
         <div className='cta-low foot-low'>
                 <img src={colorLine} alt=""/>
