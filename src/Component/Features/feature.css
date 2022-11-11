@@ -81,12 +81,21 @@
 }
 
 .tab-content p{
-  font-size: 29px;
+  font-size: 26px;
     font-weight: 500;
     text-align: initial;
 }
-.tab-content .text-center{
+.tab-content2 p{
+  font-size: 26px;
+    font-weight: 500;
+    text-align: end;
+}
+.tab-content .text-btn{
   text-align: initial;
+    padding: 3% 1%;
+}
+.tab-content2 .text-btn2{
+  text-align: end;
     padding: 3% 1%;
 }
 .fetch2{

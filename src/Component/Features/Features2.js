@@ -17,12 +17,12 @@ function Features2() {
                     alt=""
                   />
                 </div>
-                <div className="tab-content">
+                <div className="tab-content2">
                   <p>
                     Visit the marketplace to buy and sell different items in
                     form of NFT’s in the game using the MetaBall token.
                   </p>
-                  <div className="text-center">
+                  <div className="text-btn2">
                     <a href="/" className="tab-btn ">
                       Shop
                     </a>
@@ -40,12 +40,12 @@ function Features2() {
                     alt=""
                   />
                 </div>
-                <div className="tab-content">
+                <div className="tab-content2">
                   <p>
                     This project allows you to earn different rewards and prizes
                     by competing against other metaverse players.
                   </p>
-                  <div className="text-center">
+                  <div className="text-btn2">
                     <a href="/" className="tab-btn ">
                       Reward
                     </a>
@@ -63,12 +63,12 @@ function Features2() {
                     alt=""
                   />
                 </div>
-                <div className="tab-content">
+                <div className="tab-content2">
                   <p>
                     Stake your MetaBall tokens to earn cash and crypto rewards
                     in return.
                   </p>
-                  <div className="text-center">
+                  <div className="text-btn2">
                     <a href="/" className="tab-btn ">
                       Staking
                     </a>

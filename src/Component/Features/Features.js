@@ -36,7 +36,7 @@ function Features() {
                     access to the unlimited elements in the MetaBall Football
                     Game.
                   </p>
-                  <div className="text-center">
+                  <div className="text-btn">
                     <a href="/" className="tab-btn ">
                       Explore
                     </a>
@@ -60,7 +60,7 @@ function Features() {
                     to play with other real-time players and experience the best
                     of the metaverse.
                   </p>
-                  <div className="text-center">
+                  <div className="text-btn">
                     <a href="/" className="tab-btn ">
                       Metaverse
                     </a>
@@ -84,7 +84,7 @@ function Features() {
                     great return. The revenue generated from ads in metaverse
                     will buy back MetaBall tokens.
                   </p>
-                  <div className="text-center ">
+                  <div className="text-btn">
                     <a href="/" className="tab-btn ">
                       Realtime Ads
                     </a>
