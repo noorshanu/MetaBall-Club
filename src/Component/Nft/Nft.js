@@ -1,9 +1,13 @@
 import React from "react";
 import "./nft.css";
-import Tshirt from "../../assets/tshirt.png";
-import Line from "../../assets/line.png";
 
+import Line from "../../assets/line.png";
+import { Swiper, SwiperSlide } from "swiper/react";
+import "swiper/css";
+import "swiper/css/navigation";
+import { Navigation, Autoplay } from "swiper";
 import Lines from "../../assets/Biggreyline.png";
+
 function Nft() {
   return (
     <section className="nft" id="nft">
@@ -32,7 +36,50 @@ function Nft() {
             </p>
           </div>
           <div class="col-md-6 text-center nft-slider">
-            <img src={Tshirt} alt="" />
+            <div>
+              <Swiper
+                navigation={true}
+                autoplay={{
+                  delay: 2500,
+                  disableOnInteraction: false,
+                }}
+                modules={[Navigation, Autoplay]}
+                className="mySwiper"
+              >
+                <SwiperSlide>
+                  <div className="nft-slide">
+                    <img
+                      src="https://ik.imagekit.io/cforcrypto/metaball/Features/nft1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668194630739"
+                      alt=""
+                    />
+                  </div>
+                </SwiperSlide>
+                <SwiperSlide>
+                  <div className="nft-slide">
+                    <img
+                      src="https://ik.imagekit.io/cforcrypto/metaball/Features/nft2?ik-sdk-version=javascript-1.4.3&updatedAt=1668193480172"
+                      alt=""
+                    />
+                  </div>
+                </SwiperSlide>
+                <SwiperSlide>
+                  <div className="nft-slide">
+                    <img
+                      src="https://ik.imagekit.io/cforcrypto/metaball/Features/nft3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668194609687"
+                      alt=""
+                    />
+                  </div>
+                </SwiperSlide>
+                <SwiperSlide>
+                  <div className="nft-slide">
+                    <img
+                      src="https://ik.imagekit.io/cforcrypto/metaball/Features/nft4.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668195070290"
+                      alt=""
+                    />
+                  </div>
+                </SwiperSlide>
+              </Swiper>
+            </div>
           </div>
         </div>
       </div>

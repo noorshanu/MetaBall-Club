@@ -55,3 +55,9 @@ line-height: 107%;
     font-weight: 400;
 
 }
+.nft-slide{
+    text-align: center;
+}
+ .swiper-slide .nft-slide img{
+    display: unset;
+}
