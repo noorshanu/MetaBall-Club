@@ -36,6 +36,11 @@ function Features() {
                     access to the unlimited elements in the MetaBall Football
                     Game.
                   </p>
+                  <div className="text-center">
+                    <a href="/" className="tab-btn ">
+                      Explore
+                    </a>
+                  </div>
                 </div>
                 <div className="tab-image">
                   <img
@@ -51,10 +56,15 @@ function Features() {
               <div className="d-flex">
                 <div className="tab-content">
                   <p>
-                    The MetaBall Utility token stores your values and grants you
-                    access to the unlimited elements in the MetaBall Football
-                    Game.
+                    Built on Blockchain Metaverse, MetaBall metaverse allows you
+                    to play with other real-time players and experience the best
+                    of the metaverse.
                   </p>
+                  <div className="text-center">
+                    <a href="/" className="tab-btn ">
+                      Metaverse
+                    </a>
+                  </div>
                 </div>
                 <div className="tab-image">
                   <img
@@ -70,10 +80,15 @@ function Features() {
               <div className="d-flex">
                 <div className="tab-content">
                   <p>
-                    The MetaBall Utility token stores your values and grants you
-                    access to the unlimited elements in the MetaBall Football
-                    Game.
+                    We know ads are boring but what about when ads give you a
+                    great return. The revenue generated from ads in metaverse
+                    will buy back MetaBall tokens.
                   </p>
+                  <div className="text-center ">
+                    <a href="/" className="tab-btn ">
+                      Realtime Ads
+                    </a>
+                  </div>
                 </div>
                 <div className="tab-image">
                   <img
