@@ -10,6 +10,7 @@ import Roadmap from '../Component/RoadMap/Roadmap'
 import Teams from '../Component/Teams/Teams'
 import Tokens from '../Component/Tokens/Tokens'
 import "swiper/css/bundle";
+import Features2 from '../Component/Features/Features2'
 
 function Home() {
   return (
@@ -25,6 +26,7 @@ function Home() {
     </div>
     <div>
       <Features/>
+      <Features2/>
       <Tokens/>
       <Nft/>
       <Roadmap/>
