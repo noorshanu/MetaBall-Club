@@ -61,3 +61,6 @@ line-height: 107%;
  .swiper-slide .nft-slide img{
     display: unset;
 }
+.nft-1{
+    width: 35% !important;
+}

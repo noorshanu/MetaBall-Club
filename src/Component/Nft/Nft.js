@@ -40,8 +40,8 @@ function Nft() {
               <Swiper
                 navigation={true}
                 autoplay={{
-                  delay: 2500,
-                  disableOnInteraction: false,
+                  delay: 3500,
+                  disableOnInteraction: true,
                 }}
                 modules={[Navigation, Autoplay]}
                 className="mySwiper"
@@ -51,6 +51,7 @@ function Nft() {
                     <img
                       src="https://ik.imagekit.io/cforcrypto/metaball/Features/nft1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668194630739"
                       alt=""
+                      className="nft-1"
                     />
                   </div>
                 </SwiperSlide>
@@ -75,6 +76,7 @@ function Nft() {
                     <img
                       src="https://ik.imagekit.io/cforcrypto/metaball/Features/nft4.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668195070290"
                       alt=""
+                      className="nft-1"
                     />
                   </div>
                 </SwiperSlide>
