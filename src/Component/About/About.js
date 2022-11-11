@@ -1,6 +1,12 @@
-import React from 'react'
+import React, { Suspense } from "react";
 import './About.css'
-import AboutImg from '../../assets/blnkpic.png'
+// import AboutImg from '../../assets/blnkpic.png'
+import { Canvas } from "react-three-fiber";
+import { OrbitControls, useGLTF } from "@react-three/drei";
+function Model(props) {
+  const { scene } = useGLTF("https://ik.imagekit.io/cforcrypto/metaball/3d/stadium.glb?ik-sdk-version=javascript-1.4.3&updatedAt=1668164800092");
+  return <primitive object={scene} />;
+}
 function About() {
   return (
     <section className='about-main' id='about'>
@@ -8,7 +14,13 @@ function About() {
         <div className='row'>
             <div className='col-md-6'>
                 <div className='about-img'>
-                    <img src={AboutImg} alt=""/>
+                <Canvas pixelRatio={[1, 2]} camera={{ position: [-15, 10, 40], fov: 60 }} style={{width:'100%',height:'450px'}} >
+      <ambientLight intensity={5} />
+      <Suspense fallback={null}>
+        <Model />
+      </Suspense>
+      <OrbitControls />
+    </Canvas>
 
                 </div>
             </div>
