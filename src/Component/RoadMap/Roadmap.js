@@ -10,14 +10,14 @@ import RoadImg from '../../assets/road.png'
 function Roadmap() {
   return (
     <section className='features' id='road'>
-      <div class="container text-center">
+      <div class="container road-head">
        <h1>RoadMap</h1>
        <p>The following will be the Tokenomics of MetaBall Token.</p>
 
        <div>
        <Swiper navigation={true} autoplay={{
           delay: 2500,
-          disableOnInteraction: false,
+          disableOnInteraction: true,
         }} modules={[Navigation,Autoplay]} className="mySwiper">
         <SwiperSlide>
           <div  className='row'>
@@ -30,7 +30,7 @@ function Roadmap() {
               </div>
              
             </div>
-            <div className='col-md text-center'>
+            <div className='col-md-6 text-center'>
               <img src={RoadImg} alt=""/>
             </div>
             
@@ -50,7 +50,7 @@ function Roadmap() {
               </div>
              
             </div>
-            <div className='col-md text-center'>
+            <div className='col-md-6 text-center'>
               <img src={RoadImg} alt=""/>
             </div>
             
@@ -69,7 +69,7 @@ function Roadmap() {
               </div>
              
             </div>
-            <div className='col-md text-center'>
+            <div className='col-md-6 text-center'>
               <img src={RoadImg} alt=""/>
             </div>
             
@@ -88,7 +88,7 @@ function Roadmap() {
               </div>
              
             </div>
-            <div className='col-md text-center'>
+            <div className='col-md-6 text-center'>
               <img src={RoadImg} alt=""/>
             </div>
             
@@ -107,7 +107,7 @@ function Roadmap() {
               </div>
              
             </div>
-            <div className='col-md text-center'>
+            <div className='col-md-6 text-center'>
               <img src={RoadImg} alt=""/>
             </div>
             
@@ -126,7 +126,7 @@ function Roadmap() {
               </div>
              
             </div>
-            <div className='col-md text-center'>
+            <div className='col-md-6 text-center'>
               <img src={RoadImg} alt=""/>
             </div>
             
@@ -143,7 +143,7 @@ function Roadmap() {
               </div>
              
             </div>
-            <div className='col-md text-center'>
+            <div className='col-md-6 text-center'>
               <img src={RoadImg} alt=""/>
             </div>
             
