@@ -80,6 +80,24 @@ function Nft() {
                     />
                   </div>
                 </SwiperSlide>
+                <SwiperSlide>
+                  <div className="nft-slide">
+                    <img
+                      src="https://ik.imagekit.io/cforcrypto/metaball/Features/nft5.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668222820201"
+                      alt=""
+                      className="nft-1"
+                    />
+                  </div>
+                </SwiperSlide>
+                <SwiperSlide>
+                  <div className="nft-slide">
+                    <img
+                      src="https://ik.imagekit.io/cforcrypto/metaball/Features/nft6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668223215769"
+                      alt=""
+                      className="nft-1"
+                    />
+                  </div>
+                </SwiperSlide>
               </Swiper>
             </div>
           </div>

@@ -6,7 +6,7 @@ function Features() {
   return (
     <section className="features" id="feature">
       <div class="container text-center">
-        <h1>Teams</h1>
+        <h1 className='team-h1'>Features</h1>
         <p>
           The MetaBall Club is packed with top class features that make it more
           attractive.

@@ -9,7 +9,7 @@ function Teams() {
   return (
     <section className='team' id='team'>
     <div class="container text-center">
-     <h1>Teams</h1>
+     <h1 className='team-h1'>Teams</h1>
 
      <p>The People Behind The Movement</p>
     </div>
