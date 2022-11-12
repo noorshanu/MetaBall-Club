@@ -21,8 +21,8 @@ function Roadmap() {
         }} modules={[Navigation,Autoplay]} className="mySwiper">
         <SwiperSlide>
           <div  className='row'>
-            <div className='col-md'>
-              <div>
+            <div className='col-md-6 text-start'>
+              <div className='road-content'>
               <h1>Q3 - 2022</h1>
               <p> Scene rendering </p>
               <p>Develop MetaDao Ecosystem infrastructure </p>
@@ -37,14 +37,120 @@ function Roadmap() {
             
           </div>
         </SwiperSlide>
-        <SwiperSlide>Slide 2</SwiperSlide>
-        <SwiperSlide>Slide 3</SwiperSlide>
-        <SwiperSlide>Slide 4</SwiperSlide>
-        <SwiperSlide>Slide 5</SwiperSlide>
-        <SwiperSlide>Slide 6</SwiperSlide>
-        <SwiperSlide>Slide 7</SwiperSlide>
-        <SwiperSlide>Slide 8</SwiperSlide>
-        <SwiperSlide>Slide 9</SwiperSlide>
+        <SwiperSlide>
+        <div  className='row'>
+            <div className='col-md-6 text-start'>
+              <div className='road-content'>
+              <h1>Q4 2022</h1>
+              <p> Website release </p>
+              <p>Whitepaper </p>
+              <p>Community growth </p>
+              <p>Ico </p>
+              <p>MetaDao testing</p>
+              </div>
+             
+            </div>
+            <div className='col-md text-center'>
+              <img src={RoadImg} alt=""/>
+            </div>
+            
+            
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+        <div  className='row'>
+            <div className='col-md-6 text-start'>
+              <div className='road-content'>
+              <h1>Q1 2023</h1>
+              <p>NFTs launch  </p>
+              <p>Marketplace </p>
+              <p>MetaDao Beta </p>
+           
+              </div>
+             
+            </div>
+            <div className='col-md text-center'>
+              <img src={RoadImg} alt=""/>
+            </div>
+            
+            
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+        <div  className='row'>
+            <div className='col-md-6 text-start'>
+              <div className='road-content'>
+              <h1>Q2 2023</h1>
+              <p>Full version game in metadao  </p>
+              <p>NFTs staking  </p>
+              <p>Betting test </p>
+           
+              </div>
+             
+            </div>
+            <div className='col-md text-center'>
+              <img src={RoadImg} alt=""/>
+            </div>
+            
+            
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+        <div  className='row'>
+            <div className='col-md-6 text-start'>
+              <div className='road-content'>
+              <h1>Q3 2023</h1>
+              <p>Betting launch  </p>
+              <p>Live ads in metaverse   </p>
+              <p>Rental stadium </p>
+           
+              </div>
+             
+            </div>
+            <div className='col-md text-center'>
+              <img src={RoadImg} alt=""/>
+            </div>
+            
+            
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+        <div  className='row'>
+            <div className='col-md-6 text-start'>
+              <div className='road-content'>
+              <h1>Q4 2023</h1>
+              <p>Governance for further development   </p>
+              <p>Establishment of MetaDao Office    </p>
+              <p>And Community meetup</p>
+           
+              </div>
+             
+            </div>
+            <div className='col-md text-center'>
+              <img src={RoadImg} alt=""/>
+            </div>
+            
+            
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+        <div  className='row'>
+            <div className='col-md-6 text-start'>
+              <div className='road-content'>
+              <h1>Q1 2024 </h1>
+              <p>To be continued </p>
+           
+              </div>
+             
+            </div>
+            <div className='col-md text-center'>
+              <img src={RoadImg} alt=""/>
+            </div>
+            
+            
+          </div>
+        </SwiperSlide>
+        
       </Swiper>
        </div>
       </div>
