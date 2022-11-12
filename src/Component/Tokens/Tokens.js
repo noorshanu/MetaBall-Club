@@ -1,6 +1,6 @@
 import React from 'react'
 import Line from '../../assets/Biggreyline.png'
-import Blank from '../../assets/blnkpic.png'
+
 import './Tokens.css'
 
 function Tokens() {
@@ -14,7 +14,7 @@ function Tokens() {
             <div className='text-center token-sec'>
                 <h1>Tokenomics</h1>
 
-                <img src={Blank} alt=""/>
+                <img src='https://ik.imagekit.io/cforcrypto/metaball/Features/tokenomics.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668248051469' alt=""/>
             </div>
         </div>
         <div className='container'>
