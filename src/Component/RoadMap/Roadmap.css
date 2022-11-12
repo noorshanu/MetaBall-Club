@@ -59,10 +59,14 @@ swiper {
   font-weight: 400;
   font-size: 18px;
 
-  /* or 36px */
+line-height: 15px;
 
   text-align: center;
 
   color: #ffffff;
-  padding-bottom: 5%;
+
+}
+
+.road-p{
+  padding-top: 5%;
 }

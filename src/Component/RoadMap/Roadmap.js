@@ -24,11 +24,12 @@ function Roadmap() {
             <div className='col-md-6 text-start'>
               <div className='road-content'>
               <h1>Q3 - 2022</h1>
+              <div className='road-p'>
               <p> Scene rendering </p>
               <p>Develop MetaDao Ecosystem infrastructure </p>
               <p>Develop smart contract</p>
               </div>
-             
+              </div>
             </div>
             <div className='col-md-6 text-center'>
               <img src={RoadImg} alt=""/>
@@ -42,13 +43,14 @@ function Roadmap() {
             <div className='col-md-6 text-start'>
               <div className='road-content'>
               <h1>Q4 2022</h1>
+              <div className='road-p'>
               <p> Website release </p>
               <p>Whitepaper </p>
               <p>Community growth </p>
               <p>Ico </p>
               <p>MetaDao testing</p>
               </div>
-             
+             </div>
             </div>
             <div className='col-md-6 text-center'>
               <img src={RoadImg} alt=""/>
@@ -62,10 +64,11 @@ function Roadmap() {
             <div className='col-md-6 text-start'>
               <div className='road-content'>
               <h1>Q1 2023</h1>
+              <div className='road-p'>
               <p>NFTs launch  </p>
               <p>Marketplace </p>
               <p>MetaDao Beta </p>
-           
+           </div>
               </div>
              
             </div>
@@ -81,10 +84,11 @@ function Roadmap() {
             <div className='col-md-6 text-start'>
               <div className='road-content'>
               <h1>Q2 2023</h1>
+              <div className='road-p'>
               <p>Full version game in metadao  </p>
               <p>NFTs staking  </p>
               <p>Betting test </p>
-           
+           </div>
               </div>
              
             </div>
@@ -100,10 +104,11 @@ function Roadmap() {
             <div className='col-md-6 text-start'>
               <div className='road-content'>
               <h1>Q3 2023</h1>
+              <div className='road-p'>
               <p>Betting launch  </p>
               <p>Live ads in metaverse   </p>
               <p>Rental stadium </p>
-           
+           </div>
               </div>
              
             </div>
@@ -119,10 +124,11 @@ function Roadmap() {
             <div className='col-md-6 text-start'>
               <div className='road-content'>
               <h1>Q4 2023</h1>
+              <div className='road-p'>
               <p>Governance for further development   </p>
               <p>Establishment of MetaDao Office    </p>
               <p>And Community meetup</p>
-           
+           </div>
               </div>
              
             </div>
@@ -138,8 +144,9 @@ function Roadmap() {
             <div className='col-md-6 text-start'>
               <div className='road-content'>
               <h1>Q1 2024 </h1>
+              <div className='road-p'>
               <p>To be continued </p>
-           
+           </div>
               </div>
              
             </div>
