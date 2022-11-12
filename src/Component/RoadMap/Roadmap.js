@@ -4,8 +4,8 @@ import "./Roadmap.css";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/navigation";
-import { Navigation, Autoplay } from "swiper";
-import RoadImg from "../../assets/road.png";
+import { Navigation,EffectFade, Autoplay } from "swiper";
+
 
 function Roadmap() {
   return (
@@ -17,11 +17,12 @@ function Roadmap() {
         <div className="swiper-road">
           <Swiper
             navigation={true}
+            effect={"fade"}
             autoplay={{
               delay: 2500,
-              disableOnInteraction: true,
+              disableOnInteraction: false,
             }}
-            modules={[Navigation, Autoplay]}
+            modules={[EffectFade,Navigation, Autoplay]}
             className="mySwiper"
           >
             <SwiperSlide>
@@ -107,7 +108,7 @@ function Roadmap() {
                   </div>
                 </div>
                 <div className="col-md-6 text-center">
-                  <img src={RoadImg} alt="" />
+                  <img src='https://ik.imagekit.io/cforcrypto/metaball/Features/road_map5.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668272310123' alt="" />
                 </div>
               </div>
             </SwiperSlide>
@@ -124,7 +125,7 @@ function Roadmap() {
                   </div>
                 </div>
                 <div className="col-md-6 text-center">
-                  <img src={RoadImg} alt="" />
+                  <img src='https://ik.imagekit.io/cforcrypto/metaball/Features/road_map6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668272311638' alt="" />
                 </div>
               </div>
             </SwiperSlide>
@@ -139,7 +140,7 @@ function Roadmap() {
                   </div>
                 </div>
                 <div className="col-md-6 text-center">
-                  <img src={RoadImg} alt="" />
+                  <img src='https://ik.imagekit.io/cforcrypto/metaball/Features/road_map7.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668272310117' alt="" />
                 </div>
               </div>
             </SwiperSlide>
