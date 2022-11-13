@@ -89,7 +89,7 @@ function Hero() {
             <div className='row'>
                 <div className='col-md-6  align-items-center'>
                     <h1 className='pt-2 hero-h1'>
-                    Where the Players Want to 2
+                    Where the Players Want to 
                     </h1>
                     <span className='hero-btn'> <a href="/" className='hero-btn-1'>play</a></span>
                    
