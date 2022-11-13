@@ -110,6 +110,17 @@
     padding-top: 5%;
     padding-bottom: 12%;
 }
+.bg3{
+    background-color: rgb(0, 0, 0);
+    background-image: url(https://ik.imagekit.io/cforcrypto/metaball/Features/hero1.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1668249454527);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    box-shadow: inset 2000px 0 0 0 rgb(0 0 0 / 50%);
+    padding-top: 5%;
+    padding-bottom: 12%;
+}
 /*mob responsive*/
 
 @media (max-width:768px) {
