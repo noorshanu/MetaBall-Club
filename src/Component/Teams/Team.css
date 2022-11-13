@@ -41,3 +41,13 @@ line-height: 107%;
     padding-top: 5%;
     padding-bottom: 5%;
 }
+
+.side-4{
+    position: absolute;
+  
+    margin-top: 126px;
+    width: 100%;
+    height: 161px;
+    background: #FF00D6;
+    filter: blur(425px);
+}

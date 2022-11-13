@@ -14,6 +14,7 @@ function Teams() {
      <p>The People Behind The Movement</p>
     </div>
     <div class="container">
+    <div className="side-4">&nbsp;</div>
         <div class="row justify-content-center align-items-center g-2">
             <div className="col-md-3 col-6">
                 <div className='team-box text-center'>

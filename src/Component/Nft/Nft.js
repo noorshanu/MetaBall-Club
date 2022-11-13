@@ -129,6 +129,7 @@ function Nft() {
               </ul>
             </div>
             <div class="col-md-6 text-center nft-slider">
+            <div className="side-2">&nbsp;</div>
               <img
                 src="https://ik.imagekit.io/cforcrypto/metaball/Features/ways_to_earn.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668173988566"
                 alt=""
