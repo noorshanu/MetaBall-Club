@@ -87,7 +87,20 @@
     color: #FFFFFF;
     padding-bottom: 4%;
 }
-
+.bg1{
+    background-color: rgb(0, 0, 0);
+    background-image: url(https://ik.imagekit.io/cforcrypto/metaball/Features/Hero.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668249583115);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.bg2{
+    background-color: rgb(0, 0, 0);
+    background-image: url(https://ik.imagekit.io/cforcrypto/metaball/Features/hero2.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1668249478556);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 /*mob responsive*/
 
 @media (max-width:768px) {
