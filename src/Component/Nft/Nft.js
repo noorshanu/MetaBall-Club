@@ -36,7 +36,7 @@ function Nft() {
             </p>
           </div>
           <div class="col-md-6 text-center nft-slider">
-            <div>
+            <div className="">
               <Swiper
                 navigation={true}
                 autoplay={{

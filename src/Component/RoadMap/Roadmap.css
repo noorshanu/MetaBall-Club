@@ -2,7 +2,9 @@ swiper {
   width: 100%;
   height: 100%;
 }
-
+.nft-slider .swiper-slide{
+  background: transparent;
+}
 .swiper-slide {
   text-align: unset;
   font-size: 18px;

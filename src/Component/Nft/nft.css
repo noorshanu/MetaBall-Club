@@ -17,8 +17,7 @@ font-size: 25px;
 line-height: 188.5%;
 }
 .nft-box{
-    padding-top: 3%;
-    padding-bottom: 2%;
+
 }
 .nft-para p{
     font-style: normal;
@@ -31,6 +30,26 @@ line-height: 188.5%;
     width: 70%;
 }
 
+.swiper-slide {
+    text-align: unset;
+    font-size: 18px;
+    background: rgb(0, 0, 0);
+    color: #fff;
+  
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
 .nft-line{
     display: flex;
     align-items: center;
