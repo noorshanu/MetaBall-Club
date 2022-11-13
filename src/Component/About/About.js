@@ -4,7 +4,7 @@ import './About.css'
 import { Canvas } from "react-three-fiber";
 import { OrbitControls, useGLTF } from "@react-three/drei";
 function Model(props) {
-  const { scene } = useGLTF("https://ik.imagekit.io/cforcrypto/metaball/3d/stadium.glb?ik-sdk-version=javascript-1.4.3&updatedAt=1668169401235");
+  const { scene } = useGLTF('art2.glb');
   return <primitive object={scene} />;
 }
 function About() {
@@ -15,7 +15,7 @@ function About() {
             <div className='col-md-6'>
                 <div className='about-img'>
                 <Canvas pixelRatio={[1, 2]} camera={{ position: [-15, 10, 40], fov: 60 }} style={{width:'100%',height:'450px'}} >
-      <ambientLight intensity={1} />
+      <ambientLight intensity={10} />
       <Suspense fallback={null}>
         <Model />
       </Suspense>
