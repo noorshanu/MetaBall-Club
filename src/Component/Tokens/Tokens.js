@@ -13,7 +13,9 @@ function Tokens() {
         <div class="container ">
             <div className='text-center token-sec'>
                 <h1>Tokenomics</h1>
-
+                <div className="side-3">
+&nbsp;
+</div>
                 <img src='https://ik.imagekit.io/cforcrypto/metaball/Features/tokenomics.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668248051469' alt=""/>
             </div>
         </div>
