@@ -97,3 +97,20 @@ line-height: 107%;
 .nft-5{
     width: 85% !important;
 }
+@media (max-width:768px) {
+    .nft-head h1 {
+        font-size: 51px;
+    }
+
+    .nft-head p {
+        font-size: 23px;
+    }
+    .nft-line h1 {
+        font-size: 31px;
+    }
+    .nft-line img {
+        width: 54%;
+        
+    }
+    
+}
