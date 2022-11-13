@@ -50,4 +50,5 @@ line-height: 107%;
     height: 161px;
     background: #FF00D6;
     filter: blur(425px);
+    z-index: -1;
 }
