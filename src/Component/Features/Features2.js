@@ -6,6 +6,9 @@ import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 function Features2() {
   return (
     <section className="fetch2">
+      <div className="side-2">
+&nbsp;
+</div>
       <div className="container tab-2">
         <Tabs>
           <TabPanel>

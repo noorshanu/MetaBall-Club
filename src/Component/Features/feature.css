@@ -114,3 +114,20 @@
   font-weight: 700;
   border-radius: 4px;
 }
+
+.side-1{
+  position: absolute;
+  left: 0;
+  width: 374px;
+  height: 221px;
+  background: #FF00D6;
+  filter: blur(331px);
+}
+.side-2{
+  position: absolute;
+  right: 0;
+  width: 374px;
+  height: 221px;
+  background: #FF00D6;
+  filter: blur(331px);
+}

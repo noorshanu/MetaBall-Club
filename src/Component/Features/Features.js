@@ -12,7 +12,9 @@ function Features() {
           attractive.
         </p>
       </div>
-
+<div className="side-1">
+&nbsp;
+</div>
       <div className="container">
         <Tabs>
           <TabList>
