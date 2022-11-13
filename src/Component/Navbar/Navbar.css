@@ -25,8 +25,8 @@ a:hover {
 
 .main-nav {
   width: 100%;
-  height: -moz-fit-content;
-  height: fit-content;
+ 
+  height: 30px;
   background-color: #0c171700;
   display: grid;
   
