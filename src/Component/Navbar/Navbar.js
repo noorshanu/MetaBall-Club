@@ -11,6 +11,7 @@ const providerOption ={
 }
 
 function Navbar() {
+  const [Web3Provider ,setWeb3Provider]=useState(null)
   async function connectWallet(){
     try{
       let web3Modal=new Web3Modal( {
@@ -20,6 +21,9 @@ function Navbar() {
       })
       const web3ModalInstance =await web3Modal.connect();
       const web3ModalProvider =new ethers.providers.Web3Provider(web3ModalInstance);
+      if (web3ModalProvider){
+        setWeb3Provider(web3ModalProvider);
+      }
       console.log(web3ModalProvider)
     }catch(error){
       console.error(error);
@@ -45,7 +49,15 @@ function Navbar() {
         <li><a href="#nft">NFTs</a></li>
         <li><a href="#road">Roadmap</a></li>
         <li><a href="#team">team</a></li>
-        <li><button onClick={connectWallet}>connect</button></li>
+        <li><button className="connect" onClick={connectWallet}>
+          {
+            Web3Provider ==null ?(
+              <span>Connect</span>
+            ):(
+              <span>Connected!</span>
+            )
+          }
+          </button></li>
     </ul>
 
     </div>
