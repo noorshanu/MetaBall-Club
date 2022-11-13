@@ -24,7 +24,7 @@ swiper {
   align-items: center;
 }
 
-.swiper-slide img {
+.swiper-road .swiper-slide img {
   display: block;
   width: 80%;
   height: 100%;

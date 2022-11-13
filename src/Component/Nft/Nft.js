@@ -60,6 +60,7 @@ function Nft() {
                     <img
                       src="https://ik.imagekit.io/cforcrypto/metaball/Features/nft2?ik-sdk-version=javascript-1.4.3&updatedAt=1668193480172"
                       alt=""
+                      className="nft-4"
                     />
                   </div>
                 </SwiperSlide>
@@ -76,7 +77,7 @@ function Nft() {
                     <img
                       src="https://ik.imagekit.io/cforcrypto/metaball/Features/nft4.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668195070290"
                       alt=""
-                      className="nft-1"
+                      className="nft-5"
                     />
                   </div>
                 </SwiperSlide>
@@ -85,7 +86,7 @@ function Nft() {
                     <img
                       src="https://ik.imagekit.io/cforcrypto/metaball/Features/nft5.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668222820201"
                       alt=""
-                      className="nft-1"
+                      className="nft-2"
                     />
                   </div>
                 </SwiperSlide>
@@ -94,7 +95,7 @@ function Nft() {
                     <img
                       src="https://ik.imagekit.io/cforcrypto/metaball/Features/nft6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668223215769"
                       alt=""
-                      className="nft-1"
+                      className="nft-3"
                     />
                   </div>
                 </SwiperSlide>
