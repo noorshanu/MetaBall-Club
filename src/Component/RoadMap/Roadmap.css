@@ -26,9 +26,9 @@ swiper {
 
 .swiper-road .swiper-slide img {
   display: block;
-  width: 80%;
+  width: 100%;
   height: 100%;
-  object-fit: cover;
+ 
 }
 .road-content {
   background: linear-gradient(270deg, #000000 0%, #303030 100%);
