@@ -35,12 +35,13 @@ function About() {
             <div class="sketchfab-embed-wrapper">
                 {" "}
                 <iframe
-                  title="VR Soccer Stadium"
+                style={{width:'98%',paddingBottom:'5%'}}
+                  title="metaball"
                   frameborder="0"
-                  allowfullscreen
-                  mozallowfullscreen="true"
-                  webkitallowfullscreen="true"
-                  allow="autoplay; fullscreen; xr-spatial-tracking"
+                 
+                 
+                 
+                  allow="autoplay;"
                   xr-spatial-tracking
                   execution-while-out-of-viewport
                   execution-while-not-rendered

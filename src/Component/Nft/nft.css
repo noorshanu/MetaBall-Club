@@ -99,18 +99,27 @@ line-height: 107%;
 }
 @media (max-width:768px) {
     .nft-head h1 {
-        font-size: 51px;
+        font-size: 48px;
     }
 
     .nft-head p {
-        font-size: 23px;
+        font-size: 16px;
+        
     }
     .nft-line h1 {
-        font-size: 31px;
+        font-size: 48px;
+        text-align: center;
     }
     .nft-line img {
         width: 54%;
+        display: none;
         
     }
+    .nft-para p {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 125.5%;
+      }
     
 }

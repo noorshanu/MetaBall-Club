@@ -44,10 +44,11 @@
     .img-about{
         display: block;
         position: absolute;
-        height: 55px;
-        margin-top: -58px;
-        left: 43px;
-        width: 55px;
+        height: 75px;
+        margin-top: -91px;
+        left: 15px;
+        width: 75px;
+      
     }
     .sketchfab-embed-wrapper{
         display: block;
@@ -65,6 +66,30 @@
         font-size: 50px;
         
     }
+    iframe{
+        width: 98%;
+padding-bottom: 5%;
+    }
+
+    .about-content h1 {
+       
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 107%;
+        text-align: center;}
+        .about-content p {
+          
+            font-weight: 400;
+            font-size: 12px;
+            line-height: 100%;
+            text-align: justify;
+            color: #FFFFFF;
+          }
+          .about-btn-box {
+            padding-top: 6%;
+            padding-bottom: 2%;
+            text-align: center;
+          }
 
   
 }

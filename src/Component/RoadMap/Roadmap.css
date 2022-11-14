@@ -93,3 +93,26 @@ swiper {
 .swiper-road{
   padding-top: 4%;
 }
+
+@media (max-width:768px) {
+  .nft-para p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 81.5%;
+  }
+  .road-p{
+    font-size: 13px;
+  }
+  .road-head h1 {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;}
+
+.road-content {
+  background: linear-gradient(270deg, #000000 0%, #303030 100%);
+  padding-left: 20%;
+  padding-bottom: 0%;
+  padding-top: 13%;
+  height: 295px;}
+}

@@ -154,13 +154,13 @@ z-index: -2;
   box-shadow: 99px 0px 0px -4px rgb(103 103 103);
 }
 .tab-image img {
-  height: 125px;
-  width: 125px;
+  height: 100px;
+  width: 100px;
 }
 .react-tabs__tab-panel {
 
   width: 66%;
-  height: 85%;
+  height: 79%;
   padding: 5%;
 }
 .tab-content p {
@@ -174,7 +174,7 @@ z-index: -2;
 }
 
 .react-tabs__tab {
-  height: 60px;
+  height: 50px;
  
   width: 100%;
 }
@@ -194,7 +194,7 @@ z-index: -2;
 }
 .tab-2 .react-tabs__tab--selected {
 
-  box-shadow: -19px 0px 0px -4px rgb(103 103 103);
+  box-shadow: -32px 0px 0px -4px rgb(103 103 103);
 }
 
 .side-1{
