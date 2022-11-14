@@ -196,4 +196,19 @@ z-index: -2;
 
   box-shadow: -19px 0px 0px -4px rgb(103 103 103);
 }
+
+.side-1{
+  position: absolute;
+  left: 50px;
+  width: 100px;
+  height: 100px;
+
+}
+.side-2{
+  position: absolute;
+  right: 50px;
+  width: 100px;
+  height: 100px;
+
+}
 }
