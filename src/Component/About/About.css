@@ -46,11 +46,12 @@
         position: absolute;
         height: 55px;
         margin-top: -58px;
+        left: 43px;
         width: 55px;
-    
     }
     .sketchfab-embed-wrapper{
         display: block;
+        text-align: center;
     }
     .about-img{
         display: none;
