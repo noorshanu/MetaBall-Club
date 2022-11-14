@@ -33,8 +33,29 @@
     padding-top: 6%;
     padding-bottom: 2%;
 }
+.sketchfab-embed-wrapper{
+    display: none;
+}
+.img-about{
+    display: none;
+}
 
 @media (max-width:768px){
+    .img-about{
+        display: block;
+        position: absolute;
+        height: 55px;
+        margin-top: -58px;
+        width: 55px;
+    
+    }
+    .sketchfab-embed-wrapper{
+        display: block;
+    }
+    .about-img{
+        display: none;
+    }
+    
     .about-content h1 {
         font-size: 55px;
     }

@@ -30,7 +30,27 @@ function About() {
                 </Suspense>
                 <OrbitControls />
               </Canvas>
+        
             </div>
+            <div class="sketchfab-embed-wrapper">
+                {" "}
+                <iframe
+                  title="VR Soccer Stadium"
+                  frameborder="0"
+                  allowfullscreen
+                  mozallowfullscreen="true"
+                  webkitallowfullscreen="true"
+                  allow="autoplay; fullscreen; xr-spatial-tracking"
+                  xr-spatial-tracking
+                  execution-while-out-of-viewport
+                  execution-while-not-rendered
+                  web-share
+                  src="https://sketchfab.com/models/13c72788f9e74cb4980572bff5285fee/embed?autostart=1&ui_theme=dark&dnt=1"
+                >
+                  {" "}
+                </iframe>{" "}
+                <img src="https://ik.imagekit.io/cforcrypto/metaball/Logo.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668448432198" alt="logo" className="img-about"/>
+              </div>
           </div>
           <div className="col-md-6">
             <div className="about-content">
