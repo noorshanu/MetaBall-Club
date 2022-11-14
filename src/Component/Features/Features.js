@@ -2,6 +2,7 @@ import React from "react";
 import "./feature.css";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 
+
 function Features() {
   return (
     <section className="features" id="feature">
@@ -103,6 +104,7 @@ function Features() {
           </TabPanel>
         </Tabs>
       </div>
+
     </section>
   );
 }
