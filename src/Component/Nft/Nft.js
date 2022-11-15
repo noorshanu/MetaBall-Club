@@ -18,7 +18,7 @@ function Nft() {
       <div class="container nft-box">
         <div class="row justify-content-center align-items-center g-2">
           <div class="col-md-6 nft-para" data-aos="fade-right" data-aos-offset="300"
-     data-aos-easing="ease-in-sine" data-aos-duration="2000">
+     data-aos-easing="ease-in-sine"  data-aos-duration="1000">
             <p>
               {" "}
               The NFT Marketplace has unique characters, footballs, kits, bands
@@ -37,7 +37,7 @@ function Nft() {
             </p>
           </div>
           <div class="col-md-6 text-center nft-slider" data-aos="fade-left" data-aos-offset="300"
-     data-aos-easing="ease-in-sine" data-aos-duration="2000">
+     data-aos-easing="ease-in-sine"  data-aos-duration="1000">
             <div className="" >
               <Swiper
                 navigation={true}
@@ -153,14 +153,15 @@ function Nft() {
         </div>
         <div class="container nft-box">
           <div class="row justify-content-center align-items-center g-2">
-            <div>
+            <div >
               <p>
                 The players in the game have a variety of ways to earn from the
                 gameplay. The following ways are the most prominent one that
                 make MetaBall the best P2E game.
               </p>
             </div>
-            <div class="col-md-6 nft-para">
+            <div class="col-md-6 nft-para" data-aos="fade-right" data-aos-offset="300"
+     data-aos-easing="ease-in-sine"  data-aos-duration="1000">
               <ul className="nft-list">
                 <li>Buying back the utility token.</li>
                 <li>Staking of NFT’s generate revenue.</li>
@@ -170,7 +171,8 @@ function Nft() {
                 <li>Renting your home stadium also help you generate cash.</li>
               </ul>
             </div>
-            <div class="col-md-6 text-center nft-slider">
+            <div class="col-md-6 text-center nft-slider" data-aos="fade-left" data-aos-offset="300"
+     data-aos-easing="ease-in-sine"  data-aos-duration="1000">
             <div className="side-2">&nbsp;</div>
               <img
                 src="https://ik.imagekit.io/cforcrypto/metaball/Features/ways_to_earn.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1668531858290"

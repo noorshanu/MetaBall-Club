@@ -15,7 +15,8 @@ function Teams() {
     </div>
     <div class="container">
     <div className="side-4">&nbsp;</div>
-        <div class="row justify-content-center align-items-center g-2">
+        <div class="row justify-content-center align-items-center g-2" data-aos="fade-up" data-aos-offset="300"
+     data-aos-easing="ease-in-sine" data-aos-duration="1000">
             <div className="col-md-3 col-6">
                 <div className='team-box text-center'>
                     <img src={Team1} alt=""/>

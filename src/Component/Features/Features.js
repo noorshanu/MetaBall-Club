@@ -17,7 +17,7 @@ function Features() {
 &nbsp;
 </div>
       <div className="container" data-aos="fade-right" data-aos-offset="300"
-     data-aos-easing="ease-in-sine" data-aos-duration="2000">
+     data-aos-easing="ease-in-sine"  data-aos-duration="1000">
         <Tabs>
           <TabList>
             <Tab>

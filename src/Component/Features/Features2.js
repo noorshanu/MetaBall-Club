@@ -6,7 +6,7 @@ import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 function Features2() {
   return (
     <section className="fetch2" data-aos="fade-left" data-aos-offset="300"
-    data-aos-easing="ease-in-sine" data-aos-duration="2000">
+    data-aos-easing="ease-in-sine"  data-aos-duration="1000">
       <div className="side-2">
 &nbsp;
 </div>

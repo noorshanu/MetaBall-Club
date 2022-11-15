@@ -19,7 +19,7 @@ function Tokens() {
             alt=""
             data-aos="flip-left"
             data-aos-easing="ease-out-cubic"
-            data-aos-duration="2000"
+             data-aos-duration="3000"
           />
         </div>
       </div>

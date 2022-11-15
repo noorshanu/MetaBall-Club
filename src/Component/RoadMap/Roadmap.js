@@ -14,7 +14,8 @@ function Roadmap() {
         <h1>GoalMap</h1>
         <p>The following will be the Tokenomics of MetaBall Token.</p>
 
-        <div className="swiper-road">
+        <div className="swiper-road" data-aos="fade-up" data-aos-offset="300"
+     data-aos-easing="ease-in-sine" data-aos-duration="1000">
           <Swiper
             navigation={true}
             effect={"fade"}
