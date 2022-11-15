@@ -11,7 +11,7 @@ function Roadmap() {
   return (
     <section className="features" id="road">
       <div class="container road-head">
-        <h1>RoadMap</h1>
+        <h1>GoalMap</h1>
         <p>The following will be the Tokenomics of MetaBall Token.</p>
 
         <div className="swiper-road">

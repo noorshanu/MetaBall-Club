@@ -103,7 +103,7 @@ function Nft() {
                 <SwiperSlide>
                   <div className="nft-slide">
                     <img
-                      src="https://ik.imagekit.io/cforcrypto/metaball/Features/nft7.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668223311921"
+                      src="https://ik.imagekit.io/cforcrypto/metaball/Features/nft7.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668531239012"
                       alt=""
                       className="nft-3"
                     />
@@ -171,7 +171,7 @@ function Nft() {
             <div class="col-md-6 text-center nft-slider">
             <div className="side-2">&nbsp;</div>
               <img
-                src="https://ik.imagekit.io/cforcrypto/metaball/Features/ways_to_earn.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668528696693"
+                src="https://ik.imagekit.io/cforcrypto/metaball/Features/ways_to_earn.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1668531858290"
                 alt=""
               />
             </div>
