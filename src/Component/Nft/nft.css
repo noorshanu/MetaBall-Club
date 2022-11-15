@@ -107,8 +107,9 @@ line-height: 107%;
         
     }
     .nft-line h1 {
-        font-size: 48px;
+        font-size: 34px;
         text-align: center;
+        margin: auto;
     }
     .nft-line img {
         width: 54%;
