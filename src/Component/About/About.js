@@ -33,24 +33,11 @@ function About() {
         
             </div>
             <div class="sketchfab-embed-wrapper">
-                {" "}
-                <iframe
-                style={{width:'98%',paddingBottom:'5%'}}
-                  title="metaball"
-                  frameborder="0"
+             <video  autoPlay loop muted className="hero-video">
+              <source src="https://ik.imagekit.io/cforcrypto/metaball/about_us_mobile.mov?ik-sdk-version=javascript-1.4.3&updatedAt=1668529332890" type="video/mp4"/>
+             </video>
                  
                  
-                 
-                  allow="autoplay;"
-                 
-                  execution-while-out-of-viewport
-                  execution-while-not-rendered
-                 
-                  src="https://sketchfab.com/models/13c72788f9e74cb4980572bff5285fee/embed?autostart=1&ui_theme=dark&dnt=1"
-                >
-                  {" "}
-                </iframe>{" "}
-                <img src="https://ik.imagekit.io/cforcrypto/metaball/Logo.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668448432198" alt="logo" className="img-about"/>
               </div>
           </div>
           <div className="col-md-6">

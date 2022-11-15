@@ -185,5 +185,7 @@ display: none;
     .cta-content h3 {
         font-size: 16px;
     }
-    
+    .hero-video{
+        height: 350px;
+    }
 }
