@@ -99,6 +99,46 @@ function Nft() {
                     />
                   </div>
                 </SwiperSlide>
+
+                <SwiperSlide>
+                  <div className="nft-slide">
+                    <img
+                      src="https://ik.imagekit.io/cforcrypto/metaball/Features/nft7.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668223311921"
+                      alt=""
+                      className="nft-3"
+                    />
+                  </div>
+                </SwiperSlide>
+
+                <SwiperSlide>
+                  <div className="nft-slide">
+                    <img
+                      src="https://ik.imagekit.io/cforcrypto/metaball/Features/nft8.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668367284320"
+                      alt=""
+                      className="nft-3"
+                    />
+                  </div>
+                </SwiperSlide>
+
+                <SwiperSlide>
+                  <div className="nft-slide">
+                    <img
+                      src="https://ik.imagekit.io/cforcrypto/metaball/Features/nft9.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668367284267"
+                      alt=""
+                      className="nft-3"
+                    />
+                  </div>
+                </SwiperSlide>
+
+                <SwiperSlide>
+                  <div className="nft-slide">
+                    <img
+                      src="https://ik.imagekit.io/cforcrypto/metaball/Features/nft10.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668367333308"
+                      alt=""
+                      className="nft-3"
+                    />
+                  </div>
+                </SwiperSlide>
               </Swiper>
             </div>
           </div>
@@ -131,7 +171,7 @@ function Nft() {
             <div class="col-md-6 text-center nft-slider">
             <div className="side-2">&nbsp;</div>
               <img
-                src="https://ik.imagekit.io/cforcrypto/metaball/Features/ways_to_earn.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668173988566"
+                src="https://ik.imagekit.io/cforcrypto/metaball/Features/ways_to_earn.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668528696693"
                 alt=""
               />
             </div>
