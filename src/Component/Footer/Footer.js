@@ -18,7 +18,7 @@ function Footer() {
            
 
             <span className='copyright'>© 2022 MetaBall Inc. All rights reserved</span>
-            <div className='hero-social foot-soc'>
+            <div className=' foot-soc'>
                         <a href="/"><FaTwitter/></a>
                         <a href="/"><FaTelegram/></a>
                         <a href="/"><FaLinkedin/></a>

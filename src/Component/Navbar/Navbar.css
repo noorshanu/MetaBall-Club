@@ -188,7 +188,9 @@ color: #DADADA;
   }
 
   .foot-logo img{
-    width: 100%;
+    width: auto;
+    height: 50px;
+  
 }
 
  
