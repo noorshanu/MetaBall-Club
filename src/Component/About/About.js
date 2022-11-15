@@ -42,10 +42,10 @@ function About() {
                  
                  
                   allow="autoplay;"
-                  xr-spatial-tracking
+                 
                   execution-while-out-of-viewport
                   execution-while-not-rendered
-                  web-share
+                 
                   src="https://sketchfab.com/models/13c72788f9e74cb4980572bff5285fee/embed?autostart=1&ui_theme=dark&dnt=1"
                 >
                   {" "}

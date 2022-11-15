@@ -121,7 +121,15 @@
     padding-top: 5%;
     padding-bottom: 12%;
 }
+.Hero-main .swiper-button-next::after, .swiper-rtl .swiper-button-prev::after{
+display: none;
+}
+.Hero-main .swiper-button-prev::after, .swiper-rtl .swiper-button-next::after{
+    display: none;
+}
+
 /*mob responsive*/
+
 
 @media (max-width:768px) {
     .hero-h1 {

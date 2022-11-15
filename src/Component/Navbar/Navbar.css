@@ -187,7 +187,9 @@ color: #DADADA;
     justify-content: space-between;
   }
 
- 
+  .foot-logo img{
+    width: 100%;
+}
 
  
 
