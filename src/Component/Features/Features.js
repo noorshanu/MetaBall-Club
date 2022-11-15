@@ -95,7 +95,7 @@ function Features() {
                 </div>
                 <div className="tab-image">
                   <img
-                    src="https://ik.imagekit.io/cforcrypto/metaball/Features/realtime_ads.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668173577727"
+                    src="https://ik.imagekit.io/cforcrypto/metaball/Features/realtime_ads.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668527829190"
                     alt=""
                   />
                 </div>

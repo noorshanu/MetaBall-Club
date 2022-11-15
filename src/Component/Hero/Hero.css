@@ -121,6 +121,28 @@
     padding-top: 5%;
     padding-bottom: 12%;
 }
+.bg4{
+    background-color: rgb(0, 0, 0);
+    background-image: url(https://ik.imagekit.io/cforcrypto/metaball/Features/hero1.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1668527906573);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    box-shadow: inset 2000px 0 0 0 rgb(0 0 0 / 50%);
+    padding-top: 5%;
+    padding-bottom: 12%;
+}
+.bg5{
+    background-color: rgb(0, 0, 0);
+    background-image: url(https://ik.imagekit.io/cforcrypto/metaball/Features/hero_5.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1668529187749);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    box-shadow: inset 2000px 0 0 0 rgb(0 0 0 / 50%);
+    padding-top: 5%;
+    padding-bottom: 12%;
+}
 .Hero-main .swiper-button-next::after, .swiper-rtl .swiper-button-prev::after{
 display: none;
 }
