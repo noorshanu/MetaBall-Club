@@ -5,7 +5,7 @@ import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 
 function Features() {
   return (
-    <section className="features" id="feature">
+    <section className="features" id="feature" >
       <div class="container text-center">
         <h1 className='team-h1'>Features</h1>
         <p>
@@ -16,7 +16,8 @@ function Features() {
 <div className="side-1">
 &nbsp;
 </div>
-      <div className="container">
+      <div className="container" data-aos="fade-right" data-aos-offset="300"
+     data-aos-easing="ease-in-sine" data-aos-duration="2000">
         <Tabs>
           <TabList>
             <Tab>

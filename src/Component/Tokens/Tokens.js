@@ -17,6 +17,9 @@ function Tokens() {
           <img
             src="https://ik.imagekit.io/cforcrypto/metaball/Features/tokenomics.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668248051469"
             alt=""
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
           />
         </div>
       </div>

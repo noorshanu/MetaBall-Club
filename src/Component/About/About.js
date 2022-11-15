@@ -12,7 +12,8 @@ function About() {
     <section className="about-main" id="about">
       <div className="container">
         <div className="row">
-          <div className="col-md-6">
+          <div className="col-md-6" data-aos="fade-right" data-aos-offset="300" data-aos-duration="2000"
+     data-aos-easing="ease-in-sine">
             <div className="about-img">
               <Canvas
                 pixelRatio={[1, 2]}
@@ -40,7 +41,8 @@ function About() {
                  
               </div>
           </div>
-          <div className="col-md-6">
+          <div className="col-md-6" data-aos="fade-left " data-aos-offset="500" data-aos-duration="2000"
+     data-aos-easing="ease-in-out">
             <div className="about-content">
               <h1>About</h1>
               <p>

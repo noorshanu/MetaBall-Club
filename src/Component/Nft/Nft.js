@@ -17,7 +17,8 @@ function Nft() {
       </div>
       <div class="container nft-box">
         <div class="row justify-content-center align-items-center g-2">
-          <div class="col-md-6 nft-para">
+          <div class="col-md-6 nft-para" data-aos="fade-right" data-aos-offset="300"
+     data-aos-easing="ease-in-sine" data-aos-duration="2000">
             <p>
               {" "}
               The NFT Marketplace has unique characters, footballs, kits, bands
@@ -35,8 +36,9 @@ function Nft() {
               possible copy of the game.
             </p>
           </div>
-          <div class="col-md-6 text-center nft-slider">
-            <div className="">
+          <div class="col-md-6 text-center nft-slider" data-aos="fade-left" data-aos-offset="300"
+     data-aos-easing="ease-in-sine" data-aos-duration="2000">
+            <div className="" >
               <Swiper
                 navigation={true}
                 autoplay={{

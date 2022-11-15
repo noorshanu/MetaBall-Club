@@ -22,7 +22,8 @@ function Hero() {
             <div className='bg1'>
             <div className='container'>
             <div className='row'>
-                <div className='col-md-6  align-items-center'>
+                <div className='col-md-6  align-items-center' data-aos="fade-up"  data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000">
                     <h1 className='pt-2 hero-h1'>
                     Where the Players Want to
                     </h1>
