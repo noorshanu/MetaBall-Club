@@ -144,9 +144,9 @@ color: #DADADA;
 
   .mobile-menu-link {
     background-color: #000000;
-    height: 28rem;
+    height: 27rem;
     display: grid;
-    top: 9%;
+    top: 7%;
     grid-column: 2/5;
     align-items: center;
     padding-left: 2rem;

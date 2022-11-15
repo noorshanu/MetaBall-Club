@@ -27,7 +27,7 @@ function Hero() {
                     Where the Players Want to
                     </h1>
                     <span className='hero-btn'> <a href="/" className='hero-btn-1'>play</a></span>
-                   
+                    <p className='grey'>Soon...</p>
 
                     <div>
                     <p className='hero-p'>Connect With The Amazing Community</p>
@@ -59,7 +59,7 @@ function Hero() {
                     Where the Players Want to 2
                     </h1>
                     <span className='hero-btn'> <a href="/" className='hero-btn-1'>play</a></span>
-                   
+                    <p className='grey'>Soon...</p>
 
                     <div>
                     <p className='hero-p'>Connect With The Amazing Community</p>
@@ -92,7 +92,7 @@ function Hero() {
                     Where the Players Want to 
                     </h1>
                     <span className='hero-btn'> <a href="/" className='hero-btn-1'>play</a></span>
-                   
+                    <p className='grey'>Soon...</p>
 
                     <div>
                     <p className='hero-p'>Connect With The Amazing Community</p>
@@ -124,7 +124,7 @@ function Hero() {
                     Where the Players Want to 
                     </h1>
                     <span className='hero-btn'> <a href="/" className='hero-btn-1'>play</a></span>
-                   
+                    <p className='grey'>Soon...</p>
 
                     <div>
                     <p className='hero-p'>Connect With The Amazing Community</p>
@@ -156,13 +156,14 @@ function Hero() {
                     Where the Players Want to 
                     </h1>
                     <span className='hero-btn'> <a href="/" className='hero-btn-1'>play</a></span>
+                    <p className='grey'>Soon...</p>
                    
 
                     <div>
                     <p className='hero-p'>Connect With The Amazing Community</p>
                     <div className='hero-social'>
-                        <a href="/"><FaTwitter/></a>
-                        <a href="/"><FaTelegram/></a>
+                        <a href="https://twitter.com/MetaballC" target='_twitter'><FaTwitter/></a>
+                        <a href="https://t.me/metaballclub" target='_tele' ><FaTelegram/></a>
                         <a href="/"><FaLinkedin/></a>
                         <a href="/"><FaGithub/></a>
 

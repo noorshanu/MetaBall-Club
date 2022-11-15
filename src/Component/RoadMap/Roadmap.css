@@ -99,7 +99,7 @@ swiper {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 81.5%;
+    line-height: 176.5%;
   }
   .road-p{
     font-size: 13px;
@@ -114,7 +114,7 @@ swiper {
   padding-left: 20%;
   padding-bottom: 0%;
   padding-top: 13%;
-  height: 295px;}
+  height: 265px;}
  
   
   #road .swiper-road .swiper-button-next, .swiper-button-prev {
@@ -123,5 +123,8 @@ swiper {
   }
   #road .swiper-road  .swiper-button-prev{
     top: 30%  !important; 
+  }
+  .road-head p{
+    font-size: 12px;
   }
 }

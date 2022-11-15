@@ -39,8 +39,15 @@
 .img-about{
     display: none;
 }
+.grey{
+    color: gray !important;
+    padding-top: 5%;
+}
 
 @media (max-width:768px){
+    .about-grey{
+        text-align: center !important;
+    }
     .img-about{
         display: block;
         position: absolute;
@@ -81,7 +88,7 @@ padding-bottom: 5%;
           
             font-weight: 400;
             font-size: 12px;
-            line-height: 100%;
+            line-height: 160%;
             text-align: justify;
             color: #FFFFFF;
           }

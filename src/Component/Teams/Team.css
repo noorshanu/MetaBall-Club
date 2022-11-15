@@ -52,3 +52,23 @@ line-height: 107%;
     filter: blur(425px);
     z-index: -1;
 }
+@media (max-width:768px) {
+    .team-box h2{
+ 
+    font-size: 26px;
+
+    }
+    
+    .team-box span{
+        
+        font-size: 18px;
+     
+    }
+    
+    .team-box p{
+       
+        font-size: 12px;
+      
+    }
+    
+}

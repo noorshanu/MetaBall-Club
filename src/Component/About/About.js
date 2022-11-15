@@ -82,6 +82,7 @@ function About() {
                     play
                   </a>
                 </span>
+                <p className='grey about-grey' >Soon...</p>
               </div>
             </div>
           </div>
