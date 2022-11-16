@@ -1,9 +1,8 @@
 import React from 'react'
 import Lines from '../../assets/Biggreyline.png'
 import './Team.css'
-import Team1 from '../../assets/team/t1.png'
-import Team2 from '../../assets/team/t2.png'
-import Team3 from '../../assets/team/t3.png'
+
+
 import Team4 from '../../assets/team/t4.png'
 function Teams() {
   return (
@@ -19,7 +18,7 @@ function Teams() {
      data-aos-easing="ease-in-sine" data-aos-duration="1000">
             <div className="col-md-3 col-6">
                 <div className='team-box text-center'>
-                    <img src={Team1} alt=""/>
+                    <img src='https://ik.imagekit.io/cforcrypto/metaball/teams/3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668600189889' alt=""/>
                     <h2>John Mohr</h2>
                     <span>CEO</span>
                     <p>He is an entrepreneur with almost 13 years of
@@ -31,7 +30,7 @@ function Teams() {
             </div>
             <div className="col-md-3 col-6">
             <div className='team-box text-center'>
-                    <img src={Team2} alt=""/>
+                    <img src='https://ik.imagekit.io/cforcrypto/metaball/teams/1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668600190037' alt=""/>
                     <h2>snori</h2>
                     <span>CEO</span>
                     <p>A hacker and serious tech entrepreneur and have collaborated with different projects. His main motive is to make scalable systems and security systems. 
@@ -42,7 +41,7 @@ function Teams() {
                 </div>
             <div className="col-md-3 col-6">
             <div className='team-box text-center'>
-                    <img src={Team3} alt=""/>
+                    <img src='https://ik.imagekit.io/cforcrypto/metaball/teams/2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668600190154' alt=""/>
                     <h2>Susan</h2>
                     <span>advisor</span>
                     <p>Developer and serial entrepreneur in the field of information technology, specialising in 
