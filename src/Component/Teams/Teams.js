@@ -30,7 +30,7 @@ function Teams() {
             <div className="col-md-3 col-6">
             <div className='team-box text-center'>
                     <img src='https://ik.imagekit.io/cforcrypto/metaball/teams/1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668600190037' alt=""/>
-                    <h2>snori</h2>
+                    <h2>Rohit</h2>
                     <span>CEO</span>
                     <p>A hacker and serious tech entrepreneur and have collaborated with different projects. His main motive is to make scalable systems and security systems. 
 
