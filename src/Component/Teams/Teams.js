@@ -25,12 +25,12 @@ function Teams() {
                 src="https://ik.imagekit.io/cforcrypto/metaball/teams/3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668600189889"
                 alt=""
               />
-              <h2>John Mohr</h2>
+              <h2>John Slew </h2>
               <span>CEO</span>
               <p>
-                He is an entrepreneur with almost 13 years of experience. For
-                the last 8 years he has been focusing on gaming. He is also a
-                involved in different Blockcahins.
+                Having 15 years experience in technology and gaming industry.
+                His contribution to gaming industry is tremendous. His passion
+                in gaming brings unique experiences to metaverse
               </p>
             </div>
           </div>
@@ -40,12 +40,13 @@ function Teams() {
                 src="https://ik.imagekit.io/cforcrypto/metaball/teams/1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668600190037"
                 alt=""
               />
-              <h2>Rohit</h2>
-              <span>CEO</span>
+              <h2>Rohit singh</h2>
+              <span>Designer</span>
               <p>
-                A hacker and serious tech entrepreneur and have collaborated
-                with different projects. His main motive is to make scalable
-                systems and security systems.
+                He has 4 years experience in designing . His passionate and
+                creative approach builds unique concepts. He is creative minded
+                and on course to deliver a project that exceeds all expectations
+                .
               </p>
             </div>
           </div>
@@ -55,11 +56,13 @@ function Teams() {
                 src="https://ik.imagekit.io/cforcrypto/metaball/teams/2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668600190154"
                 alt=""
               />
-              <h2>Susan</h2>
-              <span>advisor</span>
+              <h2>Humaira Sheik</h2>
+              <span>Marketing</span>
               <p>
-                Developer and serial entrepreneur in the field of information
-                technology, specialising in Self-Sovereign Identity, Blockchain.
+                is a Marketing & Socials expert within the Digital marketing
+                space . Her involvement with crypto exceeds 3 years and has
+                the required skills to expose thousands of people worldwide with
+                his unique marketing skills
               </p>
             </div>
           </div>
@@ -69,12 +72,13 @@ function Teams() {
                 src="https://ik.imagekit.io/cforcrypto/metaball/teams/4.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668612845915"
                 alt=""
               />
-              <h2>Aditya</h2>
-              <span>advisor</span>
+              <h2>Aditya kumar</h2>
+              <span>Developer</span>
               <p>
-                Full-stack developer with experience in economics and
-                institutional fintech. Full stack developer. Advisor for a
-                number of.
+                As an experienced fullstack developer I've worked in the Web,
+                Blockchain for 4 years.I built dozens of
+                modern and professional platforms which are making profits for
+                several companies worldwide. 
               </p>
             </div>
           </div>
