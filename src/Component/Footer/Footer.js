@@ -3,6 +3,7 @@ import './Footer.css'
 import Logo from '../../assets/Logo.png'
 import colorLine from '../../assets/colorLine.png'
 import {FaTwitter,FaTelegram,FaLinkedin,FaGithub} from 'react-icons/fa'
+import { NavLink } from 'react-router-dom'
 
 function Footer() {
   return (
@@ -44,8 +45,8 @@ function Footer() {
           <p><a href="/">  TOKEN INFO</a></p>
             <p><a href="/"> HOW TO MAKE MONEY AT METASOCCER</a></p>
             <p><a href="/"> CONTRACT AUDITS</a></p>
-            <p><a href="/"> TERMS & CONDITIONS</a></p>
-            <p><a href="/"> DISCLAIMER</a></p>
+            <p><NavLink to="/terms" target='_terms'> TERMS & CONDITIONS</NavLink></p>
+            <p><NavLink to="/disclaimer" target='disclaim'> DISCLAIMER</NavLink></p>
          
           </div>
         
