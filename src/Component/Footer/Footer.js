@@ -45,8 +45,8 @@ function Footer() {
           <p><a href="/">  TOKEN INFO</a></p>
             <p><a href="/"> HOW TO MAKE MONEY AT METASOCCER</a></p>
             <p><a href="/"> CONTRACT AUDITS</a></p>
-            <p><NavLink to="/terms" target='_terms'> TERMS & CONDITIONS</NavLink></p>
-            <p><NavLink to="/disclaimer" target='disclaim'> DISCLAIMER</NavLink></p>
+            <p><NavLink to="/terms" target='_blank'> TERMS & CONDITIONS</NavLink></p>
+            <p><NavLink to="/disclaimer"  target='_blank'> DISCLAIMER</NavLink></p>
          
           </div>
         
