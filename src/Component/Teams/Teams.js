@@ -3,7 +3,6 @@ import Lines from '../../assets/Biggreyline.png'
 import './Team.css'
 
 
-import Team4 from '../../assets/team/t4.png'
 function Teams() {
   return (
     <section className='team' id='team'>
@@ -52,8 +51,8 @@ function Teams() {
             </div>
             <div className="col-md-3 col-6">
             <div className='team-box text-center'>
-                    <img src={Team4} alt=""/>
-                    <h2>jane</h2>
+                    <img src='https://ik.imagekit.io/cforcrypto/metaball/teams/4.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668612845915' alt=""/>
+                    <h2>Aditya</h2>
                     <span>advisor</span>
                     <p>Full-stack developer with experience in economics and institutional fintech. Full stack 
                         developer. Advisor for a number of.
