@@ -59,7 +59,7 @@ function Teams() {
               <h2>Humaira Sheik</h2>
               <span>Marketing</span>
               <p>
-                is a Marketing & Socials expert within the Digital marketing
+                Is a Marketing & Socials expert within the Digital marketing
                 space . Her involvement with crypto exceeds 3 years and has
                 the required skills to expose thousands of people worldwide with
                 his unique marketing skills
