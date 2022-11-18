@@ -40,7 +40,7 @@ function Terms() {
               so, we will update this page. Any changes to these Terms of
               Service will take effect immediately from the date of publication.{" "}
             </p>
-            <p>These Terms of Service were last updated on 29 July 2022. </p>
+            <p>These Terms of Service were last updated on 25th Nov 2022. </p>
             <h3>Limitations of Use</h3>
             <p>
               By using this website, you warrant on behalf of yourself, your
