@@ -35,14 +35,14 @@ function Footer() {
           <div className="col-md-2 col-6" >
             <p><a href="#about"> ABOUT</a></p>
             <p><a href="https://ik.imagekit.io/cforcrypto/metaball/whitepaper_metaball_6.pdf?ik-sdk-version=javascript-1.4.3&updatedAt=1668616013406" target='_blank' rel="noreferrer"> WHITEPAPER</a></p>
-           
+            <p><a href="/"> HOW TO MAKE MONEY AT METASOCCER</a></p>
            
            
 
           </div>
           <div className="col-md-2 col-6">
           <p><a href="/">  TOKEN INFO</a></p>
-            <p><a href="/"> HOW TO MAKE MONEY AT METASOCCER</a></p>
+            
             <p><a href="/"> CONTRACT AUDITS</a></p>
             <p><NavLink to="/terms" target='_blank'> TERMS & CONDITIONS</NavLink></p>
             <p><NavLink to="/disclaimer"  target='_blank'> DISCLAIMER</NavLink></p>
