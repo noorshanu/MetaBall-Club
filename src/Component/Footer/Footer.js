@@ -35,10 +35,9 @@ function Footer() {
           <div className="col-md-2 col-6" >
             <p><a href="#about"> ABOUT</a></p>
             <p><a href="https://ik.imagekit.io/cforcrypto/metaball/whitepaper_metaball_6.pdf?ik-sdk-version=javascript-1.4.3&updatedAt=1668616013406" target='_blank' rel="noreferrer"> WHITEPAPER</a></p>
-            <p><a href="/"> MARKET</a></p>
-            <p><a href="/"> CONTACT</a></p>
-            <p><a href="/"> HELP CENTER</a></p>
-            <p><a href="/"> SNAPSHOT DAO</a></p>
+           
+           
+           
 
           </div>
           <div className="col-md-2 col-6">
