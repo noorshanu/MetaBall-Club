@@ -46,6 +46,11 @@
     display: flex;
     gap: 1.2rem;
 }
+.hero-buttons{
+    margin-top: 3%;
+    display: flex;
+    gap: 1.2rem;
+}
 .hero-social a{
     color: #8F8F8F;
     font-size: 26px;
