@@ -169,7 +169,10 @@ display: none;
 
 
 @media (max-width:768px) {
-
+.connect-2{
+    font-size: 8px;
+    padding: 1% 2%;
+}
     .hero-h1 {
         font-size: 28px;
         font-weight: 600;
