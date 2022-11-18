@@ -40,9 +40,9 @@ function Hero() {
 
                     </div>
                     <div className='hero-buttons'>
-                    <a href="https://bscscan.com/address/0xbacde2bb4adc1fe9fe84c560061e3ee23fc751e6#code" target='_blank' rel="noreferrer" className="connect">Contract</a>
-                        <a href="https://ik.imagekit.io/cforcrypto/metaball/whitepaper_metaball_6.pdf?ik-sdk-version=javascript-1.4.3&updatedAt=1668616013406" target='_blank' rel="noreferrer" className="connect">Whitepaper</a>
-                        <a href='/' className="connect">Audit</a>
+                    <a href="https://bscscan.com/address/0xbacde2bb4adc1fe9fe84c560061e3ee23fc751e6#code" target='_blank' rel="noreferrer" className="connect-2">Contract</a>
+                        <a href="https://ik.imagekit.io/cforcrypto/metaball/whitepaper_metaball_6.pdf?ik-sdk-version=javascript-1.4.3&updatedAt=1668616013406" target='_blank' rel="noreferrer" className="connect-2">Whitepaper</a>
+                        <a href='/' className="connect-2">Audit</a>
                         
                     </div>
                     </div>
@@ -78,9 +78,9 @@ function Hero() {
 
                     </div>
                     <div className='hero-buttons'>
-                    <a href="https://bscscan.com/address/0xbacde2bb4adc1fe9fe84c560061e3ee23fc751e6#code" target='_blank' rel="noreferrer" className="connect">Contract</a>
-                        <a href="https://ik.imagekit.io/cforcrypto/metaball/whitepaper_metaball_6.pdf?ik-sdk-version=javascript-1.4.3&updatedAt=1668616013406" target='_blank' rel="noreferrer" className="connect">Whitepaper</a>
-                        <a href='/' className="connect">Audit</a>
+                    <a href="https://bscscan.com/address/0xbacde2bb4adc1fe9fe84c560061e3ee23fc751e6#code" target='_blank' rel="noreferrer" className="connect-2">Contract</a>
+                        <a href="https://ik.imagekit.io/cforcrypto/metaball/whitepaper_metaball_6.pdf?ik-sdk-version=javascript-1.4.3&updatedAt=1668616013406" target='_blank' rel="noreferrer" className="connect-2">Whitepaper</a>
+                        <a href='/' className="connect-2">Audit</a>
                         
                     </div>
                     </div>
@@ -117,9 +117,9 @@ function Hero() {
 
                     </div>
                     <div className='hero-buttons'>
-                    <a href="https://bscscan.com/address/0xbacde2bb4adc1fe9fe84c560061e3ee23fc751e6#code" target='_blank' rel="noreferrer" className="connect">Contract</a>
-                        <a href="https://ik.imagekit.io/cforcrypto/metaball/whitepaper_metaball_6.pdf?ik-sdk-version=javascript-1.4.3&updatedAt=1668616013406" target='_blank' rel="noreferrer" className="connect">Whitepaper</a>
-                        <a href='/' className="connect">Audit</a>
+                    <a href="https://bscscan.com/address/0xbacde2bb4adc1fe9fe84c560061e3ee23fc751e6#code" target='_blank' rel="noreferrer" className="connect-2">Contract</a>
+                        <a href="https://ik.imagekit.io/cforcrypto/metaball/whitepaper_metaball_6.pdf?ik-sdk-version=javascript-1.4.3&updatedAt=1668616013406" target='_blank' rel="noreferrer" className="connect-2">Whitepaper</a>
+                        <a href='/' className="connect-2">Audit</a>
                         
                     </div>
                     </div>
@@ -155,9 +155,9 @@ function Hero() {
 
                     </div>
                     <div className='hero-buttons'>
-                    <a href="https://bscscan.com/address/0xbacde2bb4adc1fe9fe84c560061e3ee23fc751e6#code" target='_blank' rel="noreferrer" className="connect">Contract</a>
-                        <a href="https://ik.imagekit.io/cforcrypto/metaball/whitepaper_metaball_6.pdf?ik-sdk-version=javascript-1.4.3&updatedAt=1668616013406" target='_blank' rel="noreferrer" className="connect">Whitepaper</a>
-                        <a href='/' className="connect">Audit</a>
+                    <a href="https://bscscan.com/address/0xbacde2bb4adc1fe9fe84c560061e3ee23fc751e6#code" target='_blank' rel="noreferrer" className="connect-2">Contract</a>
+                        <a href="https://ik.imagekit.io/cforcrypto/metaball/whitepaper_metaball_6.pdf?ik-sdk-version=javascript-1.4.3&updatedAt=1668616013406" target='_blank' rel="noreferrer" className="connect-2">Whitepaper</a>
+                        <a href='/' className="connect-2">Audit</a>
                         
                     </div>
                     </div>
@@ -194,9 +194,9 @@ function Hero() {
 
                     </div>
                     <div className='hero-buttons'>
-                        <a href="https://bscscan.com/address/0xbacde2bb4adc1fe9fe84c560061e3ee23fc751e6#code" target='_blank' rel="noreferrer" className="connect">Contract</a>
-                        <a href="https://ik.imagekit.io/cforcrypto/metaball/whitepaper_metaball_6.pdf?ik-sdk-version=javascript-1.4.3&updatedAt=1668616013406" target='_blank' rel="noreferrer" className="connect">Whitepaper</a>
-                        <a href='/' className="connect">Audit</a>
+                        <a href="https://bscscan.com/address/0xbacde2bb4adc1fe9fe84c560061e3ee23fc751e6#code" target='_blank' rel="noreferrer" className="connect-2">Contract</a>
+                        <a href="https://ik.imagekit.io/cforcrypto/metaball/whitepaper_metaball_6.pdf?ik-sdk-version=javascript-1.4.3&updatedAt=1668616013406" target='_blank' rel="noreferrer" className="connect-2">Whitepaper</a>
+                        <a href='/' className="connect-2">Audit</a>
                         
                     </div>
                     </div>
