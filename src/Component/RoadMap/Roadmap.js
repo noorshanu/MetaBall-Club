@@ -12,7 +12,7 @@ function Roadmap() {
     <section className="features" id="road">
       <div class="container road-head">
         <h1>GoalMap</h1>
-        <p>The following will be the Tokenomics of MetaBall Token.</p>
+        <p>The following will be the project milestones of Metaball Club.</p>
 
         <div className="swiper-road" data-aos="fade-up" data-aos-offset="300"
      data-aos-easing="ease-in-sine" data-aos-duration="1000">
