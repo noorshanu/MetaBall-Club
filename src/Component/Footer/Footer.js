@@ -30,6 +30,7 @@ function Footer() {
           <div className="col-md-4 col-6">
             <div className='text-center'>
             <span className='hero-btn'> <a href="/" className='hero-btn-1'>play</a></span>
+            <p className='grey'>Soon...</p>
             </div>
           </div>
           <div className="col-md-2 col-6" >
