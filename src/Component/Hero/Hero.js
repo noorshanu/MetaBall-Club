@@ -33,8 +33,8 @@ function Hero() {
                     <div>
                     <p className='hero-p'>Connect With The Amazing Community</p>
                     <div className='hero-social'>
-                        <a href="/"><FaTwitter/></a>
-                        <a href="/"><FaTelegram/></a>
+                    <a href="https://twitter.com/MetaballC"target='_blank'  rel="noreferrer"><FaTwitter/></a>
+                        <a href="https://t.me/metaballclub" target='_blank'  rel="noreferrer"><FaTelegram/></a>
                         <a href="/"><FaLinkedin/></a>
                         <a href="/"><FaGithub/></a>
 
@@ -71,8 +71,8 @@ function Hero() {
                     <div>
                     <p className='hero-p'>Connect With The Amazing Community</p>
                     <div className='hero-social'>
-                        <a href="/"><FaTwitter/></a>
-                        <a href="/"><FaTelegram/></a>
+                    <a href="https://twitter.com/MetaballC"target='_blank'  rel="noreferrer"><FaTwitter/></a>
+                        <a href="https://t.me/metaballclub" target='_blank'  rel="noreferrer"><FaTelegram/></a>
                         <a href="/"><FaLinkedin/></a>
                         <a href="/"><FaGithub/></a>
 
@@ -110,8 +110,8 @@ function Hero() {
                     <div>
                     <p className='hero-p'>Connect With The Amazing Community</p>
                     <div className='hero-social'>
-                        <a href="/"><FaTwitter/></a>
-                        <a href="/"><FaTelegram/></a>
+                    <a href="https://twitter.com/MetaballC"target='_blank'  rel="noreferrer"><FaTwitter/></a>
+                        <a href="https://t.me/metaballclub" target='_blank'  rel="noreferrer"><FaTelegram/></a>
                         <a href="/"><FaLinkedin/></a>
                         <a href="/"><FaGithub/></a>
 
@@ -148,8 +148,8 @@ function Hero() {
                     <div>
                     <p className='hero-p'>Connect With The Amazing Community</p>
                     <div className='hero-social'>
-                        <a href="/"><FaTwitter/></a>
-                        <a href="/"><FaTelegram/></a>
+                    <a href="https://twitter.com/MetaballC"target='_blank'  rel="noreferrer"><FaTwitter/></a>
+                        <a href="https://t.me/metaballclub" target='_blank'  rel="noreferrer"><FaTelegram/></a>
                         <a href="/"><FaLinkedin/></a>
                         <a href="/"><FaGithub/></a>
 
@@ -187,8 +187,8 @@ function Hero() {
                     <div>
                     <p className='hero-p'>Connect With The Amazing Community</p>
                     <div className='hero-social'>
-                        <a href="https://twitter.com/MetaballC" target='_twitter'><FaTwitter/></a>
-                        <a href="https://t.me/metaballclub" target='_tele' ><FaTelegram/></a>
+                    <a href="https://twitter.com/MetaballC"target='_blank'  rel="noreferrer"><FaTwitter/></a>
+                        <a href="https://t.me/metaballclub" target='_blank'  rel="noreferrer"><FaTelegram/></a>
                         <a href="/"><FaLinkedin/></a>
                         <a href="/"><FaGithub/></a>
 

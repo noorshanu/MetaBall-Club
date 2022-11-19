@@ -20,8 +20,8 @@ function Footer() {
 
             <span className='copyright'>© 2022 MetaBall Inc. All rights reserved</span>
             <div className=' foot-soc'>
-            <a href="https://twitter.com/MetaballC" target='_twitter'><FaTwitter/></a>
-                        <a href="https://t.me/metaballclub" target='_tele' ><FaTelegram/></a>
+            <a href="https://twitter.com/MetaballC"target='_blank'  rel="noreferrer"><FaTwitter/></a>
+                        <a href="https://t.me/metaballclub" target='_blank'  rel="noreferrer"><FaTelegram/></a>
                         <a href="/"><FaLinkedin/></a>
                         <a href="/"><FaGithub/></a>
 
