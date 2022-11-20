@@ -15,7 +15,7 @@ function Tokens() {
           <h1>Tokenomics</h1>
           <div className="side-3">&nbsp;</div>
           <img
-            src="https://ik.imagekit.io/cforcrypto/metaball/Features/tokenomics.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668248051469"
+            src="https://ik.imagekit.io/cforcrypto/metaball/multicolor_pie_png_-_purplish.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668919655334"
             alt=""
             data-aos="flip-left"
             data-aos-easing="ease-out-cubic"
