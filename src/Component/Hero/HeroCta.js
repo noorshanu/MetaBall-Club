@@ -1,6 +1,7 @@
 import React from 'react'
 import SmallLine from '../../assets/smallgrayLine.png'
 import colorLine from '../../assets/colorLine.png'
+import ProgressBar from "@ramonak/react-progress-bar";
 
 import './Hero.css'
 
@@ -21,6 +22,30 @@ function HeroCta() {
             <div className='cta-low'>
                 <img src={colorLine} alt=""/>
 
+            </div>
+            <div className='col-md-6 presale-mob'>
+
+            <div className="presale">
+                    <div className="presale-box">
+                      <h1>PRESALE - 1</h1>
+                      <h1>1 MTB = 0.025 USD</h1>
+                      <ProgressBar
+                        completed={80}
+                        className="wrappers"
+                        barContainerClassName="containers"
+                        completedClassName="barCompleted"
+                        labelClassName="label"
+                      />
+                      <p>Sold- 1,000,000,0 / 3,000,000,00</p>
+                      <p>Raised- 1,000,000,0 / 3,000,000,00</p>
+                      <div className="presale-btn">
+                        <a href="/">BUY WITH BUSD</a>
+                        <a href="/">BUY WITH BNB</a>
+                        <a href="/">BUY WITH CARD</a>
+                      </div>
+                    </div>
+                  </div>
+                
             </div>
 
         </div>

@@ -231,10 +231,26 @@ display: none;
     margin-top: -10px;
     display: none;
   }
+  .presale-mob{
+    display: none;
+  }
 /*mob responsive*/
 
 
 @media (max-width:768px) {
+    .Hero-main{
+        padding-bottom: 0%;
+    }
+    .cta{
+        padding-top: 0%;
+    }
+
+    .sale-desktop{
+        display: none;
+    }
+    .presale-mob{
+        display: block;
+    }
 .connect-2{
     font-size: 8px;
     padding: 1% 2%;
@@ -264,11 +280,13 @@ display: none;
     }
 
     .cta-content h2 {
-        font-size: 18px;
+        font-size: 14px;
+        padding-bottom: 1%;
     }
 
     .cta-content h3 {
-        font-size: 16px;
+        font-size: 12px;
+        padding-bottom: 1%;
     }
     .hero-video{
         height: 350px;

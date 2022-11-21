@@ -86,7 +86,7 @@ function Hero() {
                   </div>
                 </div>
                 <div className="col-md-6">
-                  <div className="presale">
+                  <div className="presale  sale-desktop ">
                     <div className="presale-box">
                       <h1>PRESALE - 1</h1>
                       <h1>1 MTB = 0.025 USD</h1>
@@ -173,7 +173,7 @@ function Hero() {
                   </div>
                 </div>
                 <div className="col-md-6">
-                <div className="presale">
+                <div className="presale  sale-desktop ">
                     <div className="presale-box">
                       <h1>PRESALE - 1</h1>
                       <h1>1 MTB = 0.025 USD</h1>
@@ -261,7 +261,7 @@ function Hero() {
                   </div>
                 </div>
                 <div className="col-md-6">
-                <div className="presale">
+                <div className="presale  sale-desktop ">
                     <div className="presale-box">
                       <h1>PRESALE - 1</h1>
                       <h1>1 MTB = 0.025 USD</h1>
@@ -348,7 +348,7 @@ function Hero() {
                   </div>
                 </div>
                 <div className="col-md-6">
-                <div className="presale">
+                <div className="presale  sale-desktop ">
                     <div className="presale-box">
                       <h1>PRESALE - 1</h1>
                       <h1>1 MTB = 0.025 USD</h1>
@@ -435,7 +435,7 @@ function Hero() {
                   </div>
                 </div>
                 <div className="col-md-6">
-                <div className="presale">
+                <div className="presale  sale-desktop ">
                     <div className="presale-box">
                       <h1>PRESALE - 1</h1>
                       <h1>1 MTB = 0.025 USD</h1>
