@@ -39,9 +39,8 @@ function HeroCta() {
                       <p>Sold- 1,000,000,0 / 3,000,000,00</p>
                       <p>Raised- 1,000,000,0 / 3,000,000,00</p>
                       <div className="presale-btn">
-                        <a href="/">BUY WITH BUSD</a>
-                        <a href="/">BUY WITH BNB</a>
-                        <a href="/">BUY WITH CARD</a>
+                      <a href="/">BUY MTB</a>
+                        <a href="/" className="claim">CLAIM</a>
                       </div>
                     </div>
                   </div>
