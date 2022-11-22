@@ -193,9 +193,27 @@ display: none;
     font-weight: 400;
     line-height: 30px;
 }
+.form-control{
+    background-color: rgba(0, 0, 0, 0.514);
+    border: none;
+    border-right: 1px solid #9c9c9c;
+    border-radius: 5px 0px 0px 5px;
+    border-left: 1px solid #FF00D6;
+    border-top: 1px solid #FF00D6;
+    border-bottom: 1px solid #FF00D6;
+}
+.form-control2{
+    background-color: rgba(0, 0, 0, 0.514);
+    border: none;
+    border-left:  none;
+    border-radius: 0px 5px 5px 0px;
+    border-right: 1px solid #FF00D6;
+    border-top: 1px solid #FF00D6;
+    border-bottom: 1px solid #FF00D6;
+}
 .presale-btn{
     display: flex;
-    flex-direction: column;
+   
 }
 .presale-btn a{
     border: 2px solid #00FF47;

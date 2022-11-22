@@ -99,6 +99,21 @@ function Hero() {
                       />
                       <p>Sold- 1,000,000,0 / 3,000,000,00</p>
                       <p>Raised- 1,000,000,0 / 3,000,000,00</p>
+                      <div className="presale-input d-flex">
+                        <div className="mb-3">
+                          
+                          <input type="number"
+                            className="form-control" name="BNB" id="" aria-describedby="helpId" placeholder="BNB"/>
+                          
+                        </div>
+                        <div className="mb-3">
+                          
+                        <input type="number"
+                            className="form-control form-control2" name="MTB" id="" aria-describedby="helpId" placeholder="MTB"/>
+                          
+                        </div>
+
+                      </div>
                       <div className="presale-btn">
                         
                         <a href="/">BUY MTB</a>
@@ -186,6 +201,21 @@ function Hero() {
                       />
                       <p>Sold- 1,000,000,0 / 3,000,000,00</p>
                       <p>Raised- 1,000,000,0 / 3,000,000,00</p>
+                      <div className="presale-input d-flex">
+                        <div className="mb-3">
+                          
+                          <input type="number"
+                            className="form-control" name="BNB" id="" aria-describedby="helpId" placeholder="BNB"/>
+                          
+                        </div>
+                        <div className="mb-3">
+                          
+                        <input type="number"
+                            className="form-control form-control2" name="MTB" id="" aria-describedby="helpId" placeholder="MTB"/>
+                          
+                        </div>
+
+                      </div>
                       <div className="presale-btn">
                       <a href="/">BUY MTB</a>
                         <a href="/" className="claim">CLAIM</a>
@@ -273,6 +303,21 @@ function Hero() {
                       />
                       <p>Sold- 1,000,000,0 / 3,000,000,00</p>
                       <p>Raised- 1,000,000,0 / 3,000,000,00</p>
+                      <div className="presale-input d-flex">
+                        <div className="mb-3">
+                          
+                          <input type="number"
+                            className="form-control" name="BNB" id="" aria-describedby="helpId" placeholder="BNB"/>
+                          
+                        </div>
+                        <div className="mb-3">
+                          
+                        <input type="number"
+                            className="form-control form-control2" name="MTB" id="" aria-describedby="helpId" placeholder="MTB"/>
+                          
+                        </div>
+
+                      </div>
                       <div className="presale-btn">
                       <a href="/">BUY MTB</a>
                         <a href="/" className="claim">CLAIM</a>
@@ -359,6 +404,21 @@ function Hero() {
                       />
                       <p>Sold- 1,000,000,0 / 3,000,000,00</p>
                       <p>Raised- 1,000,000,0 / 3,000,000,00</p>
+                      <div className="presale-input d-flex">
+                        <div className="mb-3">
+                          
+                          <input type="number"
+                            className="form-control" name="BNB" id="" aria-describedby="helpId" placeholder="BNB"/>
+                          
+                        </div>
+                        <div className="mb-3">
+                          
+                        <input type="number"
+                            className="form-control form-control2" name="MTB" id="" aria-describedby="helpId" placeholder="MTB"/>
+                          
+                        </div>
+
+                      </div>
                       <div className="presale-btn">
                       <a href="/">BUY MTB</a>
                         <a href="/" className="claim">CLAIM</a>
@@ -445,6 +505,21 @@ function Hero() {
                       />
                       <p>Sold- 1,000,000,0 / 3,000,000,00</p>
                       <p>Raised- 1,000,000,0 / 3,000,000,00</p>
+                      <div className="presale-input d-flex">
+                        <div className="mb-3">
+                          
+                          <input type="number"
+                            className="form-control" name="BNB" id="" aria-describedby="helpId" placeholder="BNB"/>
+                          
+                        </div>
+                        <div className="mb-3">
+                          
+                          <input type="number"
+                            className="form-control form-control2" name="MTB" id="" aria-describedby="helpId" placeholder="MTB"/>
+                          
+                        </div>
+
+                      </div>
                       <div className="presale-btn">
                       <a href="/">BUY MTB</a>
                         <a href="/" className="claim">CLAIM</a>
